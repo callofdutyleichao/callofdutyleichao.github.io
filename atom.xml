@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yutianachao.com/"/>
+  <updated>2019-06-18T11:27:13.019Z</updated>
+  <id>https://yutianachao.com/</id>
+  
+  <author>
+    <name>雨田阿超</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雨田阿超的书房菜</title>
+    <link href="https://yutianachao.com/2019/06/18/hello-world/"/>
+    <id>https://yutianachao.com/2019/06/18/hello-world/</id>
+    <published>2019-06-18T08:18:52.000Z</published>
+    <updated>2019-06-18T11:27:13.019Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>大家好，我叫雷超，很高兴小伙伴们访问我的博客。</li><li>折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下的都是特别的经历和回忆。</li></ul><h5 id="命的别名"><a href="#命的别名" class="headerlink" title="命的别名"></a><center>命的别名</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">命的别名就是心:</span><br><span class="line"></span><br><span class="line">请君放慢前方远行的步伐</span><br><span class="line">最珍贵的和最值得珍惜的就在身边</span><br><span class="line">那是千千万万人中最平凡的你</span><br><span class="line">也是千千万万人中最平凡的我</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;大家好，我叫雷超，很高兴小伙伴们访问我的博客。&lt;/li&gt;
+&lt;li&gt;折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下的都是特别的经
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
