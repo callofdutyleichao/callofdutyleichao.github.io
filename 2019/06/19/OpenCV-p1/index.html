@@ -15,14 +15,21 @@
 
 
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="标签">
-<meta property="og:url" content="https://yutianachao.com/tags/index.html">
+<meta name="description" content="学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。    主要学习内容：    1.显示一张彩色图片    2.把彩色图片转化为灰度图片    3.保存图片">
+<meta name="keywords" content="python,数字图像处理">
+<meta property="og:type" content="article">
+<meta property="og:title" content="OpenCV_Day1">
+<meta property="og:url" content="https://yutianachao.com/2019/06/19/OpenCV-p1/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
+<meta property="og:description" content="学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。    主要学习内容：    1.显示一张彩色图片    2.把彩色图片转化为灰度图片    3.保存图片">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-18T08:49:43.878Z">
+<meta property="og:image" content="https://yutianachao.com/2019/06/19/OpenCV-p1/p1_health.jpg">
+<meta property="og:image" content="https://yutianachao.com/2019/06/19/OpenCV-p1/gray_p1_health.jpg">
+<meta property="og:updated_time" content="2019-06-19T01:42:08.854Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="标签">
+<meta name="twitter:title" content="OpenCV_Day1">
+<meta name="twitter:description" content="学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。    主要学习内容：    1.显示一张彩色图片    2.把彩色图片转化为灰度图片    3.保存图片">
+<meta name="twitter:image" content="https://yutianachao.com/2019/06/19/OpenCV-p1/p1_health.jpg">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -54,7 +61,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>标签 | 老雷的书房菜</title>
+<title>OpenCV_Day1 | 老雷的书房菜</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -64,7 +71,7 @@
         fancybox: true,
         animate: true,
         isHome: false,
-        isPost: false,
+        isPost: true,
         isArchive: false,
         isTag: false,
         isCategory: false,
@@ -201,11 +208,11 @@
     </div>
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
-      <div class="body-wrap"><article id="page-" class="article article-type-page" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-OpenCV-p1" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/tags/index.html" class="article-date">
-      <time datetime="2019-06-18T02:27:31.000Z" itemprop="datePublished">2019-06-18</time>
+      <a href="/2019/06/19/OpenCV-p1/" class="article-date">
+      <time datetime="2019-06-18T22:28:12.000Z" itemprop="datePublished">2019-06-19</time>
 </a>
 
 
@@ -220,7 +227,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      标签
+      OpenCV_Day1
     </h1>
   
 
@@ -228,8 +235,16 @@
       
       <div class="article-info article-info-post">
         
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/Opencv/">Opencv</a>
+    </div>
+
 
         
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/python/">python</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/数字图像处理/">数字图像处理</a></li></ul>
+    </div>
+
         <div class="clearfix"></div>
       </div>
       
@@ -237,96 +252,64 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-              <style>
-    .article-meta { display: none; }
-    #container .article .article-title { padding-right: 0; }
-    .article-header {
-        padding: 0;
-        padding-top: 26px;
-        border-left: none;
-        text-align: center;
-    }
-    .article-header:hover { border-left: none; }
-    .article-title { font-size: 1.6em }
-    .article-entry hr { margin: 0;}
-    .article-meta,
-    #container .article-info-post.article-info { display: none;}
-    #container .article .article-title { padding: 0; }
-</style>
+        <p>学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。<br>    主要学习内容：<br>    1.显示一张彩色图片<br>    2.把彩色图片转化为灰度图片<br>    3.保存图片</p>
+<a id="more"></a>
+
+<h4 id="显示一张彩色图片"><a href="#显示一张彩色图片" class="headerlink" title="显示一张彩色图片"></a>显示一张彩色图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">cv2.imshow(<span class="string">"imge"</span>,image)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<p><img src="/2019/06/19/OpenCV-p1/p1_health.jpg" alt="显示彩色图片"></p>
+<h4 id="把彩色图片转化为灰度图片"><a href="#把彩色图片转化为灰度图片" class="headerlink" title="把彩色图片转化为灰度图片"></a>把彩色图片转化为灰度图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)  </span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imshow(<span class="string">"gray_image"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<p><img src="/2019/06/19/OpenCV-p1/gray_p1_health.jpg" alt="把彩色图片转化为灰度图片"></p>
+<h4 id="保存图片"><a href="#保存图片" class="headerlink" title="保存图片"></a>保存图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imwrite(<span class="string">"gray_p1_health.jpg"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
 
 
-    <!-- Tag Cloud Page -->
-    <hr>
-<br>
-<ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Opencv/">Opencv</a><span class="category-list-count">1</span></li></ul>
-
-<p class="count"></p>
-
-<div class="tags">
-    <a href="/tags/python/" style="font-size: 16px; color: #808080">python</a> <a href="/tags/数字图像处理/" style="font-size: 16px; color: #808080">数字图像处理</a>
-</div>
-<style>
-    .category-list li{
-        display: inline-block;
-        margin: 0 1em .5em 0;
-        padding: 4px;
-        border: 1px solid lightgray;
-        font-size: 1.2rem;
-    }
-    .category-list a { color: gray; }
-    .category-list-item:hover a {
-        color: gray;
-        text-decoration: none;
-    }
-    .category-list-count {
-        margin-left: 2px;
-        font-size: .9rem;
-    }
-    .article-entry ul li:before{ display: none; }
-    .article-inner { text-align: center; }
-    .tags {
-        max-width: 42em;
-        margin: 2em auto;
-        margin-top: 0em;
-    }
-    .tags a {
-        margin-right: 1em;
-        line-height: 65px;
-        border-bottom: 1px solid gray;
-        white-space: nowrap;
-        transition: border-bottom .5s;
-    }
-    .tags a:hover {
-        border-bottom: 3px dotted gray;
-        text-decoration: none;
-    }
-    #count > span {
-        margin: auto .2em;
-        font-weight: bold;
-    }
-</style>
-
-<!-- Count tags and categories -->
-<p id="count">
-        已有<span><script>document.write($(".category-list-item").length)</script></span>个分类，
-        共计<span><script>document.write($(".tags > a").length)</script></span>个标签
-</p>
-<script>
-    $('#count').appendTo('.count');
-</script>
-
-          
-        
       
     </div>
     
   </div>
   
     
+    
 
+
+
+    <nav id="article-nav">
+        
+        
+            <div id="article-nav-older" class="article-nav-title">
+                <a href="/2019/06/18/hello-world/">
+                    老雷的书房菜
+                </a>
+            </div>
+        
+    </nav>
 
   
 </article>
+
+    <div id="toc" class="toc-article">
+        <strong class="toc-title">文章目录</strong>
+        
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#显示一张彩色图片"><span class="toc-number">1.</span> <span class="toc-text">显示一张彩色图片</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#把彩色图片转化为灰度图片"><span class="toc-number">2.</span> <span class="toc-text">把彩色图片转化为灰度图片</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#保存图片"><span class="toc-number">3.</span> <span class="toc-text">保存图片</span></a></li></ol>
+        
+    </div>
+    <style>
+        .left-col .switch-btn,
+        .left-col .switch-area {
+            display: none;
+        }
+        .toc-level-3 i,
+        .toc-level-3 ol {
+            display: none !important;
+        }
+    </style>
+
+    <input type="button" id="tocButton" value="隐藏目录"  title="点击按钮隐藏或者显示文章目录">
+
+    <script>
+        yiliaConfig.toc = ["隐藏目录", "显示目录", !!"false"];
+    </script>
 
 
 
@@ -334,6 +317,24 @@
 
     
 
+
+
+
+    <div class="scroll" id="post-nav-button">
+        
+            <a href="/" title="回到主页"><i class="fa fa-home"></i></a>
+        
+
+        <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
+
+        
+            <a href="/2019/06/18/hello-world/" title="下一篇: 老雷的书房菜">
+                <i class="fa fa-angle-right"></i>
+            </a>
+        
+    </div>
+
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">OpenCV_Day1</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
 
 
 
