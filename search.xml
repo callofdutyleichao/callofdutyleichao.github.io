@@ -4,11 +4,65 @@
   
     
     <entry>
+      <title>Opencv_p2</title>
+      <link href="/2019/06/20/Opencv-p2/"/>
+      <url>/2019/06/20/Opencv-p2/</url>
+      
+        <content type="html"><![CDATA[<pre><code>主要学习内容：1.读取视频2.把视频转换为灰度视频</code></pre><a id="more"></a><h4 id="读取视频"><a href="#读取视频" class="headerlink" title="读取视频"></a>读取视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示彩色视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="把视频转换为灰度视频"><a href="#把视频转换为灰度视频" class="headerlink" title="把视频转换为灰度视频"></a>把视频转换为灰度视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    gray_frame=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)</span><br><span class="line">    cv2.imshow(<span class="string">"GRAY_FREAM"</span>, gray_frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><iframe src="//player.bilibili.com/player.html?aid=56247053&cid=98306883&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> Opencv </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> 数字图像处理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Git</title>
+      <link href="/2019/06/20/Git/"/>
+      <url>/2019/06/20/Git/</url>
+      
+        <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，心灵稚嫩的我们略带醋意，忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的搞基联盟成员作案用的是什么工具？<br> 手机铃声为《上海滩》的背景音乐顿时响起，Git深深地吸了口烟，略有所思地望着远方，在吐出烟的一刹那嘴里蹦出四个字：用的是我！！！ 被烟呛着了的Git咳了两声：哎哎，那四个字不包括感叹号……<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 Git是目前用的最多的分布式版本管理工具。 Git是目前用的最多的分布式版本管理工具。 Git是目前用的最多的分布式版本管理工具。 Git是目前用的最多的分布式版本管理工具。 Git是目前用的最多的分布式版本管理工具。</p><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 版本控制系统(VCS) </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>OpenCV_Day1</title>
       <link href="/2019/06/19/OpenCV-p1/"/>
       <url>/2019/06/19/OpenCV-p1/</url>
       
-        <content type="html"><![CDATA[<p>学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。<br>    主要学习内容：<br>    1.显示一张彩色图片<br>    2.把彩色图片转化为灰度图片<br>    3.保存图片</p><a id="more"></a><h4 id="显示一张彩色图片"><a href="#显示一张彩色图片" class="headerlink" title="显示一张彩色图片"></a>显示一张彩色图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">cv2.imshow(<span class="string">"imge"</span>,image)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/p1_health.jpg" alt="显示彩色图片"></p><h4 id="把彩色图片转化为灰度图片"><a href="#把彩色图片转化为灰度图片" class="headerlink" title="把彩色图片转化为灰度图片"></a>把彩色图片转化为灰度图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)  </span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imshow(<span class="string">"gray_image"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/gray_p1_health.jpg" alt="把彩色图片转化为灰度图片"></p><h4 id="保存图片"><a href="#保存图片" class="headerlink" title="保存图片"></a>保存图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imwrite(<span class="string">"gray_p1_health.jpg"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。<br>    主要学习内容：<br>    1.显示一张彩色图片<br>    2.把彩色图片转化为灰度图片<br>    3.保存图片</p><a id="more"></a><h4 id="显示一张彩色图片"><a href="#显示一张彩色图片" class="headerlink" title="显示一张彩色图片"></a>显示一张彩色图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">cv2.imshow(<span class="string">"imge"</span>,image)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/p1_health.jpg" alt="显示彩色图片"></p><h4 id="把彩色图片转化为灰度图片"><a href="#把彩色图片转化为灰度图片" class="headerlink" title="把彩色图片转化为灰度图片"></a>把彩色图片转化为灰度图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)  </span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imshow(<span class="string">"gray_image"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/gray_p1_health.jpg" alt="把彩色图片转化为灰度图片"></p><h4 id="保存图片"><a href="#保存图片" class="headerlink" title="保存图片"></a>保存图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imwrite(<span class="string">"gray_p1_health.jpg"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码解释"><a href="#代码解释" class="headerlink" title="代码解释"></a>代码解释</h4><iframe src="//player.bilibili.com/player.html?aid=56114899&cid=98085178&page=1" height="400" width="600" scrolling="true" border="1" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
       
       
       <categories>

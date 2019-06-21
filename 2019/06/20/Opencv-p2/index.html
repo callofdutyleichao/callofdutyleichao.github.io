@@ -15,17 +15,18 @@
 
 
 
-<meta name="description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta name="description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
+<meta name="keywords" content="python,数字图像处理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="老雷的书房菜">
-<meta property="og:url" content="https://yutianachao.com/2019/06/18/hello-world/index.html">
+<meta property="og:title" content="Opencv_p2">
+<meta property="og:url" content="https://yutianachao.com/2019/06/20/Opencv-p2/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
-<meta property="og:description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta property="og:description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-18T23:41:44.808Z">
+<meta property="og:updated_time" content="2019-06-21T04:35:27.754Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="老雷的书房菜">
-<meta name="twitter:description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta name="twitter:title" content="Opencv_p2">
+<meta name="twitter:description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -57,7 +58,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>老雷的书房菜 | 老雷的书房菜</title>
+<title>Opencv_p2 | 老雷的书房菜</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -204,11 +205,11 @@
     </div>
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
-      <div class="body-wrap"><article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-Opencv-p2" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2019/06/18/hello-world/" class="article-date">
-      <time datetime="2019-06-18T08:18:52.000Z" itemprop="datePublished">2019-06-18</time>
+      <a href="/2019/06/20/Opencv-p2/" class="article-date">
+      <time datetime="2019-06-20T14:08:21.000Z" itemprop="datePublished">2019-06-20</time>
 </a>
 
 
@@ -223,7 +224,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      老雷的书房菜
+      Opencv_p2
     </h1>
   
 
@@ -231,8 +232,16 @@
       
       <div class="article-info article-info-post">
         
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/Opencv/">Opencv</a>
+    </div>
+
 
         
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/python/">python</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/数字图像处理/">数字图像处理</a></li></ul>
+    </div>
+
         <div class="clearfix"></div>
       </div>
       
@@ -240,13 +249,17 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        <ul>
-<li>大家好，我叫雷超，很高兴小伙伴们访问我的博客。</li>
-<li>折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。<a id="more"></a>
+        <pre><code>主要学习内容：
+1.读取视频
+2.把视频转换为灰度视频</code></pre><a id="more"></a>
 
-</li>
-</ul>
-<h5 id="命的别名"><a href="#命的别名" class="headerlink" title="命的别名"></a><center>命的别名</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">命的别名就是心:</span><br><span class="line"></span><br><span class="line">请君放慢前方远行的步伐</span><br><span class="line">最珍贵的和最值得珍惜的就在身边</span><br><span class="line">那是千千万万人中最平凡的你</span><br><span class="line">也是千千万万人中最平凡的我</span><br></pre></td></tr></table></figure>
+<h4 id="读取视频"><a href="#读取视频" class="headerlink" title="读取视频"></a>读取视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示彩色视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<h4 id="把视频转换为灰度视频"><a href="#把视频转换为灰度视频" class="headerlink" title="把视频转换为灰度视频"></a>把视频转换为灰度视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    gray_frame=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)</span><br><span class="line">    cv2.imshow(<span class="string">"GRAY_FREAM"</span>, gray_frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><iframe src="//player.bilibili.com/player.html?aid=56247053&cid=98306883&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
 
       
@@ -261,12 +274,12 @@
 
     <nav id="article-nav">
         
-            <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2019/06/19/OpenCV-p1/">
-                    OpenCV_Day1
+        
+            <div id="article-nav-older" class="article-nav-title">
+                <a href="/2019/06/20/Git/">
+                    Git
                 </a>
             </div>
-        
         
     </nav>
 
@@ -276,7 +289,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-5"><a class="toc-link" href="#命的别名"><span class="toc-number">1.</span> <span class="toc-text">命的别名</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#读取视频"><span class="toc-number">1.</span> <span class="toc-text">读取视频</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#把视频转换为灰度视频"><span class="toc-number">2.</span> <span class="toc-text">把视频转换为灰度视频</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#代码讲解"><span class="toc-number">3.</span> <span class="toc-text">代码讲解</span></a></li></ol>
         
     </div>
     <style>
@@ -307,15 +320,15 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2019/06/19/OpenCV-p1/" title="上一篇: OpenCV_Day1">
-                <i class="fa fa-angle-left"></i>
-            </a>
+            <a href="/" title="回到主页"><i class="fa fa-home"></i></a>
         
 
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/" title="回到主页"><i class="fa fa-home"></i></a>
+            <a href="/2019/06/20/Git/" title="下一篇: Git">
+                <i class="fa fa-angle-right"></i>
+            </a>
         
     </div>
 
