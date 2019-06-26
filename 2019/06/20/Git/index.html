@@ -15,18 +15,18 @@
 
 
 
-<meta name="description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。 Git是什么鬼？ 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？ 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背">
+<meta name="description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道…… Git是什么鬼？ 编程的小伙伴们都知道GitH">
 <meta name="keywords" content="版本控制系统(VCS),Github">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Git">
 <meta property="og:url" content="https://yutianachao.com/2019/06/20/Git/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
-<meta property="og:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。 Git是什么鬼？ 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？ 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背">
+<meta property="og:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道…… Git是什么鬼？ 编程的小伙伴们都知道GitH">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-21T05:57:13.642Z">
+<meta property="og:updated_time" content="2019-06-26T15:08:13.935Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Git">
-<meta name="twitter:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。 Git是什么鬼？ 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？ 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背">
+<meta name="twitter:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道…… Git是什么鬼？ 编程的小伙伴们都知道GitH">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -249,8 +249,13 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        <p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。</p>
-<h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？<br> 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背影，若即若离、似有似无，只见其深深地吸了口烟，略有所思地望着星空，在吐出烟的一刹那嘴里蹦出几个字：用的是我,Git！！！<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p>
+        <p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p>
+<h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的偶像搞基用的是什么工具？<br> 此时手机铃声为《上海滩》的背景音乐响起，此时天空划过一道闪光，照的让人睁不开眼：用的是我,Git！！！ 带有神秘光环的男一号出场了ing<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p>
+<ol>
+<li>Git是怎样诞生的诞生的?</li>
+<li>什么是分布式？    </li>
+<li>什么又是版本管理工具<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li>
+</ol>
 <h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3>
       
     </div>
@@ -266,14 +271,14 @@
         
             <div id="article-nav-newer" class="article-nav-title">
                 <a href="/2019/06/20/Opencv-p2/">
-                    Opencv_p2
+                    2.OpenCV+Python 读取视频并处理
                 </a>
             </div>
         
         
             <div id="article-nav-older" class="article-nav-title">
                 <a href="/2019/06/19/OpenCV-p1/">
-                    OpenCV_Day1
+                    1.OpenCV+Python 读取图片并处理
                 </a>
             </div>
         
@@ -316,7 +321,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2019/06/20/Opencv-p2/" title="上一篇: Opencv_p2">
+            <a href="/2019/06/20/Opencv-p2/" title="上一篇: 2.OpenCV+Python 读取视频并处理">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -324,13 +329,13 @@
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/2019/06/19/OpenCV-p1/" title="下一篇: OpenCV_Day1">
+            <a href="/2019/06/19/OpenCV-p1/" title="下一篇: 1.OpenCV+Python 读取图片并处理">
                 <i class="fa fa-angle-right"></i>
             </a>
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">Opencv_p2</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">OpenCV_Day1</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/23/thinking/">回忆高考前一晚</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/23/Opencv-p5/">人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中的是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
 
 
 

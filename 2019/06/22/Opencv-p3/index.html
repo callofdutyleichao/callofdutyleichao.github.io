@@ -15,18 +15,18 @@
 
 
 
-<meta name="description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
+<meta name="description" content="主要学习内容： 1.图片大小变换,认识resize()函数 2.在图像上画图，长方形、圆形、椭圆、多边形......">
 <meta name="keywords" content="python,数字图像处理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="2.OpenCV+Python 读取视频并处理">
-<meta property="og:url" content="https://yutianachao.com/2019/06/20/Opencv-p2/index.html">
+<meta property="og:title" content="3.OpenCV+Python 在图片上画画">
+<meta property="og:url" content="https://yutianachao.com/2019/06/22/Opencv-p3/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
-<meta property="og:description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
+<meta property="og:description" content="主要学习内容： 1.图片大小变换,认识resize()函数 2.在图像上画图，长方形、圆形、椭圆、多边形......">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-23T00:03:31.144Z">
+<meta property="og:updated_time" content="2019-06-26T14:59:14.885Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="2.OpenCV+Python 读取视频并处理">
-<meta name="twitter:description" content="主要学习内容： 1.读取视频 2.把视频转换为灰度视频">
+<meta name="twitter:title" content="3.OpenCV+Python 在图片上画画">
+<meta name="twitter:description" content="主要学习内容： 1.图片大小变换,认识resize()函数 2.在图像上画图，长方形、圆形、椭圆、多边形......">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -58,7 +58,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>2.OpenCV+Python 读取视频并处理 | 老雷的书房菜</title>
+<title>3.OpenCV+Python 在图片上画画 | 老雷的书房菜</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -205,11 +205,11 @@
     </div>
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
-      <div class="body-wrap"><article id="post-Opencv-p2" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-Opencv-p3" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2019/06/20/Opencv-p2/" class="article-date">
-      <time datetime="2019-06-20T14:08:21.000Z" itemprop="datePublished">2019-06-20</time>
+      <a href="/2019/06/22/Opencv-p3/" class="article-date">
+      <time datetime="2019-06-22T03:34:31.000Z" itemprop="datePublished">2019-06-22</time>
 </a>
 
 
@@ -224,7 +224,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      2.OpenCV+Python 读取视频并处理
+      3.OpenCV+Python 在图片上画画
     </h1>
   
 
@@ -250,16 +250,14 @@
       
           
         <pre><code>主要学习内容：
-1.读取视频
-2.把视频转换为灰度视频</code></pre><a id="more"></a>
+1.图片大小变换,认识resize()函数
+2.在图像上画图，长方形、圆形、椭圆、多边形......</code></pre><hr>
+<a id="more"></a>
+<h4 id="图片大小变换"><a href="#图片大小变换" class="headerlink" title="图片大小变换"></a>图片大小变换</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"><span class="built_in">print</span>(img.shape)</span><br><span class="line"><span class="comment"># 1.调整尺寸</span></span><br><span class="line">width,height = 700,400</span><br><span class="line">chaimg=cv2.resize(img,(width,height))</span><br><span class="line"><span class="comment"># 1.1 img.shape 返回来的是什么值</span></span><br><span class="line">imgshape=chaimg.shape <span class="comment"># 高和宽  ROI 可以用到</span></span><br><span class="line"><span class="built_in">print</span>(imgshape)</span><br><span class="line">cv2.imshow(<span class="string">"chaimg"</span>,chaimg)</span><br><span class="line"><span class="comment">#ratioimg=cv2.resize(chaimg,(0,0),fx=1.5,fy=1.5,interpolation=cv2.INTER_LANCZOS4)</span></span><br><span class="line"><span class="comment">#cv2.imshow("ratioimg",ratioimg)</span></span><br><span class="line"><span class="comment"># src - 原图</span></span><br><span class="line"><span class="comment"># dst - 目标图像。当参数dsize不为0时，dst的大小为size；否则，它的大小需要根据src的大小，参数fx和fy决定。dst的类型（type）和src图像相同</span></span><br><span class="line"><span class="comment"># dsize - 目标图像大小。当dsize为0时，它可以通过以下公式计算得出：</span></span><br><span class="line"><span class="comment"># 所以，参数dsize和参数(fx, fy)不能够同时为0</span></span><br><span class="line"><span class="comment"># fx - 水平轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># fy - 垂直轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># interpolation - 插值方法。共有5种：</span></span><br><span class="line"><span class="comment"># １）INTER_NEAREST - 最近邻插值法</span></span><br><span class="line"><span class="comment"># ２）INTER_LINEAR - 双线性插值法（默认）</span></span><br><span class="line"><span class="comment"># ３）INTER_AREA - 基于局部像素的重采样（resampling using pixel area relation）。对于图像抽取（image</span></span><br><span class="line"><span class="comment"># decimation）来说，这可能是一个更好的方法。但如果是放大图像时，它和最近邻法的效果类似。</span></span><br><span class="line"><span class="comment"># ４）INTER_CUBIC - 基于4x4像素邻域的3次插值法</span></span><br><span class="line"><span class="comment"># ５）INTER_LANCZOS4 - 基于8x8像素邻域的Lanczos插值</span></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
 
-<h4 id="读取视频"><a href="#读取视频" class="headerlink" title="读取视频"></a>读取视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示彩色视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+<h4 id="图片画图"><a href="#图片画图" class="headerlink" title="图片画图"></a>图片画图</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"></span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line">cv2.circle(img,(500,600),30,red,thickness=3)</span><br><span class="line">cv2.ellipse(img,(500,500),(100,150),90,0,360,yellow,thickness=3,lineType=-1)</span><br><span class="line">cv2.line(img,(50,50),(400,400),blue,thickness=3)</span><br><span class="line">points = np.array([[[140, 230], [380, 230], [320, 250], [250, 280],[550, 280]]], np.int32)</span><br><span class="line">cv2.polylines(img, [points], True, yellow, thickness=3)</span><br><span class="line">font = cv2.FONT_HERSHEY_COMPLEX</span><br><span class="line">cv2.putText(img, <span class="string">"lei chao "</span>, (20, 180), font, 4, black,thickness=4)</span><br><span class="line">cv2.imshow(<span class="string">"drawimg"</span>,img)</span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
 
-<h4 id="把视频转换为灰度视频"><a href="#把视频转换为灰度视频" class="headerlink" title="把视频转换为灰度视频"></a>把视频转换为灰度视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BGR_FREAM"</span>,frame)</span><br><span class="line">    <span class="comment"># 把视频转化为灰度视频</span></span><br><span class="line">    gray_frame=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)</span><br><span class="line">    cv2.imshow(<span class="string">"GRAY_FREAM"</span>, gray_frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
-
-<h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><pre><code>最近学习视频剪辑，好多地方还是不够熟练，厚着脸皮在中途强行加了段戏ing</code></pre><iframe src="//player.bilibili.com/player.html?aid=56247053&cid=98306883&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
-
-
+<h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><iframe src="//player.bilibili.com/player.html?aid=56936295&cid=99446317&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
 
 
       
@@ -275,15 +273,15 @@
     <nav id="article-nav">
         
             <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2019/06/22/theroy/">
-                    最近写论文感受
+                <a href="/2019/06/22/Opencv-p4/">
+                    4.OpenCV+Python 图片在电脑中的是什么
                 </a>
             </div>
         
         
             <div id="article-nav-older" class="article-nav-title">
-                <a href="/2019/06/20/Git/">
-                    Git
+                <a href="/2019/06/22/theroy/">
+                    最近写论文感受
                 </a>
             </div>
         
@@ -295,7 +293,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#读取视频"><span class="toc-number">1.</span> <span class="toc-text">读取视频</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#把视频转换为灰度视频"><span class="toc-number">2.</span> <span class="toc-text">把视频转换为灰度视频</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#代码讲解"><span class="toc-number">3.</span> <span class="toc-text">代码讲解</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#图片大小变换"><span class="toc-number">1.</span> <span class="toc-text">图片大小变换</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#图片画图"><span class="toc-number">2.</span> <span class="toc-text">图片画图</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#代码讲解"><span class="toc-number">3.</span> <span class="toc-text">代码讲解</span></a></li></ol>
         
     </div>
     <style>
@@ -326,7 +324,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2019/06/22/theroy/" title="上一篇: 最近写论文感受">
+            <a href="/2019/06/22/Opencv-p4/" title="上一篇: 4.OpenCV+Python 图片在电脑中的是什么">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -334,7 +332,7 @@
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/2019/06/20/Git/" title="下一篇: Git">
+            <a href="/2019/06/22/theroy/" title="下一篇: 最近写论文感受">
                 <i class="fa fa-angle-right"></i>
             </a>
         

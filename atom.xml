@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yutianachao.com/"/>
-  <updated>2019-06-21T06:01:01.818Z</updated>
+  <updated>2019-06-24T03:33:11.997Z</updated>
   <id>https://yutianachao.com/</id>
   
   <author>
@@ -17,11 +17,213 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Opencv_p2</title>
+    <title>dlib</title>
+    <link href="https://yutianachao.com/2019/06/24/dlib/"/>
+    <id>https://yutianachao.com/2019/06/24/dlib/</id>
+    <published>2019-06-24T03:33:11.000Z</published>
+    <updated>2019-06-24T03:33:11.997Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回忆高考前一晚</title>
+    <link href="https://yutianachao.com/2019/06/23/thinking/"/>
+    <id>https://yutianachao.com/2019/06/23/thinking/</id>
+    <published>2019-06-23T15:45:01.000Z</published>
+    <updated>2019-06-25T02:27:41.452Z</updated>
+    
+    <content type="html"><![CDATA[<p> 大多数的我们，都认为自己做过的事随着时间的推移就忘了，其实我们做的任何事都在记忆中存着，一旦遇到类似场景的触发就会突然又想起来。就像我们在电脑中存的文件，可能有些只是暂时不用，忘了放在哪个盘下，但那个文件着实存在。</p><hr>成长的旅途，一半在回忆，一半在经历。最近高考成绩出来，突然想起高考复读时前一晚上的事。<a id="more"></a><p>第二天就要高考了。凌晨了，我还睡不着，天马星空的幻想着未来的事，好的坏的。尽管知道这些大多都不会发生，只是打发时间而已。却让人越想越睡不着,一个人走上楼房，吹着风看着星星发呆。突然听见咳嗽声，这才发现还有人在楼上。他身体的轮廓很熟悉，是我邻宿舍同学他爸，陪读家长。</p><p>"叔，你还不睡"。<br>"我怕我娃睡不着，影响他睡觉，就到楼房上来咧"<br>他点根烟叹了口气"我看了，今年我娃考不上，得再来一年"。说完后，更多是沉默。<br>他抽完烟，看了我下，又咳了几下。<br>"小伙子，赶紧睡去，明天要考试里，要是真睡不着，闭着眼养神也行！"<br>我没多说，下楼去了。<br>想着明天就要考试了，不知道我爸妈晚上睡的好不......</p><p>坐在宿舍，打开日记本，结束了高考那段时间的最后一页：这一年复习我已经尽力了，未来无论面对什么，考上或没考上，我不后悔......</p><h5 id="《美猴王》"><a href="#《美猴王》" class="headerlink" title="《美猴王》"></a><center>《美猴王》</center></h5><center> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">他年落到百年五指压我躯</span><br><span class="line">来年成仙我必归来胜如来</span><br></pre></td></tr></table></figure></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 大多数的我们，都认为自己做过的事随着时间的推移就忘了，其实我们做的任何事都在记忆中存着，一旦遇到类似场景的触发就会突然又想起来。就像我们在电脑中存的文件，可能有些只是暂时不用，忘了放在哪个盘下，但那个文件着实存在。&lt;/p&gt;
+&lt;hr&gt;
+成长的旅途，一半在回忆，一半在经历。最近高考成绩出来，突然想起高考复读时前一晚上的事。
+    
+    </summary>
+    
+      <category term="杂谈随想" scheme="https://yutianachao.com/categories/%E6%9D%82%E8%B0%88%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="诗歌" scheme="https://yutianachao.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+      <category term="回忆" scheme="https://yutianachao.com/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人脸人眼检测</title>
+    <link href="https://yutianachao.com/2019/06/23/Opencv-p5/"/>
+    <id>https://yutianachao.com/2019/06/23/Opencv-p5/</id>
+    <published>2019-06-23T11:32:55.000Z</published>
+    <updated>2019-06-23T11:53:26.365Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+    
+    
+      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
+    
+      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小论文--疲劳监测</title>
+    <link href="https://yutianachao.com/2019/06/22/little/"/>
+    <id>https://yutianachao.com/2019/06/22/little/</id>
+    <published>2019-06-22T03:58:46.000Z</published>
+    <updated>2019-06-26T02:58:55.264Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个论文国外已经发布了但有个问题，他的做法是用眼睛宽度除以长度，用SVR分析得出眨眼阈值，我的是用眼睛的长度除以宽度，然后记录这些比例值，用Kmean算法分析得出眨眼阈值。他的实验有不严谨的地方，我们得做补充。因为外国人和亚洲人的人体特征存在偏差，他们用的数据集是只适用于他们，我们可以用自己的数据集得出适应于我们的眨眼阈值。<br><br>外国好多优秀的论文，应用在自己国家或多或少会出问题，主要原因是参数不对。写论文，做实验做到最后更多时间停留在调参上。<br></p><h5 id="疲劳监测软件"><a href="#疲劳监测软件" class="headerlink" title="疲劳监测软件"></a>疲劳监测软件</h5><p>眨眼算法<br>鼻尖抖动厉害<br>嘴巴张开太大<br>这三个功能可以一起使用，也可以选择使用。</p><h5 id="头部姿势预测"><a href="#头部姿势预测" class="headerlink" title="头部姿势预测"></a>头部姿势预测</h5><p>向前上下左右五个方向预测。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个论文国外已经发布了但有个问题，他的做法是用眼睛宽度除以长度，用SVR分析得出眨眼阈值，我的是用眼睛的长度除以宽度，然后记录这些比例值，用Kmean算法分析得出眨眼阈值。他的实验有不严谨的地方，我们得做补充。因为外国人和亚洲人的人体特征存在偏差，他们用的数据集是只适用于他
+      
+    
+    </summary>
+    
+      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+      <category term="疲劳监测" scheme="https://yutianachao.com/tags/%E7%96%B2%E5%8A%B3%E7%9B%91%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中期论文-视线坐标点预测</title>
+    <link href="https://yutianachao.com/2019/06/22/midexam/"/>
+    <id>https://yutianachao.com/2019/06/22/midexam/</id>
+    <published>2019-06-22T03:58:29.000Z</published>
+    <updated>2019-06-26T14:58:12.233Z</updated>
+    
+    <content type="html"><![CDATA[<p>7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,<br>随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&gt;已知坐标点。在允许有误差的情况下先把结果做出来。<br>两种方法计算<br>    分类：把电脑分类为若干区域(使用SVM或深度学习方法)<br>    回归：SVR方法计算确定的坐标点（随后做，可以当小论文发）</p><a id="more"></a><hr><h4 id="寻找瞳孔4种方法测试"><a href="#寻找瞳孔4种方法测试" class="headerlink" title="寻找瞳孔4种方法测试"></a>寻找瞳孔4种方法测试</h4><ol><li>Adaboost:先把人脸确定了，根据眼睛在人脸的位置确定人眼粗略位置。</li><li>dlib：直接阈值调整找出瞳孔（局部地区太大了，这个保留，随后可用4,5方法做）。</li><li>基于局部极值的分水岭算法的圆斑点检测（做了，阈值参数不好找）</li><li>在人眼的ROI区域用边缘检测和霍夫圆检测（做了，阈值参数不好找）</li><li>有个眼睛梯度定位瞳孔（没测试）</li></ol><ul><li>对于要调节参数的随后有时间都会去完善，好不容易做到这一步了，不能放弃。<hr></li></ul><h5 id="星期一的任务，找瞳孔（完成）"><a href="#星期一的任务，找瞳孔（完成）" class="headerlink" title="星期一的任务，找瞳孔（完成）"></a>星期一的任务，找瞳孔（完成）</h5><p> 目前人眼瞳孔已经找到，但是由于噪音干扰不是很精确，准备这样解决：调取Trackbar画板调节灰度。<br><br> 瞳孔定位目前用这几种方法，前面处理过程，灰度变化，直方图均衡化，高斯滤波<br><br> 结果演示：</p><h5 id="星期二的任务，制作数据集（）"><a href="#星期二的任务，制作数据集（）" class="headerlink" title="星期二的任务，制作数据集（）"></a>星期二的任务，制作数据集（）</h5><p> 由于时间赶得紧，先用右眼瞳孔中心的坐标做预测，随后时间允许的话，把两个瞳孔的坐标都加上。<br><br> 数据集收集：<br><br> 输入数据集：瞳孔中心坐标点(重要直接决定实验的好坏)，两个眼睛的左右眼角点，嘴巴的左右嘴角点，鼻尖（防止人身体移动时导致视线误差太大）。<br><br> 输出数据集: <br>先做个模拟键盘，先用四个区域做实验尝试看能测出不，随后扩展更大区域。<br></p><ol><li>做个模拟键盘分四个区域</li><li>收集数据集<br>（没做完….）</li></ol><hr><h5 id="星期三任务，训练网络模型测试结果"><a href="#星期三任务，训练网络模型测试结果" class="headerlink" title="星期三任务，训练网络模型测试结果"></a>星期三任务，训练网络模型测试结果</h5><ol><li>先做一部分数据集测试，随后加入其它特征数据 </li><li>老天呀，没想收集的结果是这样，我的心有点碎。</li><li>寂寞孤单眼泪失落伤心和烦恼，许多事情真不是我们想的那样，仅仅收集数据，心里想的挺好，但是在收集的过程中没考虑电脑I/O的读写，太慢了，实时性很不好。<h5 id="星期四任务，眨眼算法的点击事件"><a href="#星期四任务，眨眼算法的点击事件" class="headerlink" title="星期四任务，眨眼算法的点击事件"></a>星期四任务，眨眼算法的点击事件</h5><h5 id="星期五任务，视线追踪和点击相结合"><a href="#星期五任务，视线追踪和点击相结合" class="headerlink" title="星期五任务，视线追踪和点击相结合"></a>星期五任务，视线追踪和点击相结合</h5><h5 id="周六天写论文"><a href="#周六天写论文" class="headerlink" title="周六天写论文"></a>周六天写论文</h5></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,&lt;br&gt;随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&amp;gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&amp;gt;已知坐标点。在允许有误差的情况下先把结果做出来。&lt;br&gt;两种方法计算&lt;br&gt;    分类：把电脑分类为若干区域(使用SVM或深度学习方法)&lt;br&gt;    回归：SVR方法计算确定的坐标点（随后做，可以当小论文发）&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+      <category term="视线追踪" scheme="https://yutianachao.com/tags/%E8%A7%86%E7%BA%BF%E8%BF%BD%E8%B8%AA/"/>
+    
+      <category term="机器学习" scheme="https://yutianachao.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4.OpenCV+Python 图片在电脑中的是什么</title>
+    <link href="https://yutianachao.com/2019/06/22/Opencv-p4/"/>
+    <id>https://yutianachao.com/2019/06/22/Opencv-p4/</id>
+    <published>2019-06-22T03:34:56.000Z</published>
+    <updated>2019-06-23T11:29:43.477Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>主要学习内容：1.图像中的点2.图像中的线3.图像中的面</code></pre><hr><p>#### </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p4.jpg"</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">#点</span></span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line">img[200, 200] = (0, 0, 0)</span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 线  高20--720；宽 600</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(1,700):</span><br><span class="line">    img[20+i][600]=(255,0,255)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 面</span></span><br><span class="line">img[100:200,100:300,0]=0</span><br><span class="line">img[100:200,100:300,1]=255</span><br><span class="line">img[100:200,100:300,2]=0</span><br><span class="line"></span><br><span class="line"><span class="comment"># ROI</span></span><br><span class="line">violet = (180, 0, 180)</span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line"></span><br><span class="line">ROI=img[300:680,750:1100]</span><br><span class="line">shape=ROI.shape</span><br><span class="line"><span class="comment"># 若两点,起始点 x1,y1 终点 x2,y2  则我们把感兴趣区域应写[y1:y2,x1:x2]</span></span><br><span class="line"></span><br><span class="line">cv2.imshow(<span class="string">"img"</span>, img)</span><br><span class="line">cv2.imshow(<span class="string">"ROI"</span>, ROI)</span><br><span class="line"></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;主要学习内容：
+1.图像中的点
+2.图像中的线
+3.图像中的面&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;p&gt;#### &lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+    
+    
+      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
+    
+      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3.OpenCV+Python 在图片上画画</title>
+    <link href="https://yutianachao.com/2019/06/22/Opencv-p3/"/>
+    <id>https://yutianachao.com/2019/06/22/Opencv-p3/</id>
+    <published>2019-06-22T03:34:31.000Z</published>
+    <updated>2019-06-26T14:59:14.885Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>主要学习内容：1.图片大小变换,认识resize()函数2.在图像上画图，长方形、圆形、椭圆、多边形......</code></pre><hr><a id="more"></a><h4 id="图片大小变换"><a href="#图片大小变换" class="headerlink" title="图片大小变换"></a>图片大小变换</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"><span class="built_in">print</span>(img.shape)</span><br><span class="line"><span class="comment"># 1.调整尺寸</span></span><br><span class="line">width,height = 700,400</span><br><span class="line">chaimg=cv2.resize(img,(width,height))</span><br><span class="line"><span class="comment"># 1.1 img.shape 返回来的是什么值</span></span><br><span class="line">imgshape=chaimg.shape <span class="comment"># 高和宽  ROI 可以用到</span></span><br><span class="line"><span class="built_in">print</span>(imgshape)</span><br><span class="line">cv2.imshow(<span class="string">"chaimg"</span>,chaimg)</span><br><span class="line"><span class="comment">#ratioimg=cv2.resize(chaimg,(0,0),fx=1.5,fy=1.5,interpolation=cv2.INTER_LANCZOS4)</span></span><br><span class="line"><span class="comment">#cv2.imshow("ratioimg",ratioimg)</span></span><br><span class="line"><span class="comment"># src - 原图</span></span><br><span class="line"><span class="comment"># dst - 目标图像。当参数dsize不为0时，dst的大小为size；否则，它的大小需要根据src的大小，参数fx和fy决定。dst的类型（type）和src图像相同</span></span><br><span class="line"><span class="comment"># dsize - 目标图像大小。当dsize为0时，它可以通过以下公式计算得出：</span></span><br><span class="line"><span class="comment"># 所以，参数dsize和参数(fx, fy)不能够同时为0</span></span><br><span class="line"><span class="comment"># fx - 水平轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># fy - 垂直轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># interpolation - 插值方法。共有5种：</span></span><br><span class="line"><span class="comment"># １）INTER_NEAREST - 最近邻插值法</span></span><br><span class="line"><span class="comment"># ２）INTER_LINEAR - 双线性插值法（默认）</span></span><br><span class="line"><span class="comment"># ３）INTER_AREA - 基于局部像素的重采样（resampling using pixel area relation）。对于图像抽取（image</span></span><br><span class="line"><span class="comment"># decimation）来说，这可能是一个更好的方法。但如果是放大图像时，它和最近邻法的效果类似。</span></span><br><span class="line"><span class="comment"># ４）INTER_CUBIC - 基于4x4像素邻域的3次插值法</span></span><br><span class="line"><span class="comment"># ５）INTER_LANCZOS4 - 基于8x8像素邻域的Lanczos插值</span></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="图片画图"><a href="#图片画图" class="headerlink" title="图片画图"></a>图片画图</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"></span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line">cv2.circle(img,(500,600),30,red,thickness=3)</span><br><span class="line">cv2.ellipse(img,(500,500),(100,150),90,0,360,yellow,thickness=3,lineType=-1)</span><br><span class="line">cv2.line(img,(50,50),(400,400),blue,thickness=3)</span><br><span class="line">points = np.array([[[140, 230], [380, 230], [320, 250], [250, 280],[550, 280]]], np.int32)</span><br><span class="line">cv2.polylines(img, [points], True, yellow, thickness=3)</span><br><span class="line">font = cv2.FONT_HERSHEY_COMPLEX</span><br><span class="line">cv2.putText(img, <span class="string">"lei chao "</span>, (20, 180), font, 4, black,thickness=4)</span><br><span class="line">cv2.imshow(<span class="string">"drawimg"</span>,img)</span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><iframe src="//player.bilibili.com/player.html?aid=56936295&cid=99446317&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;主要学习内容：
+1.图片大小变换,认识resize()函数
+2.在图像上画图，长方形、圆形、椭圆、多边形......&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+    
+    
+      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
+    
+      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最近写论文感受</title>
+    <link href="https://yutianachao.com/2019/06/22/theroy/"/>
+    <id>https://yutianachao.com/2019/06/22/theroy/</id>
+    <published>2019-06-22T01:42:00.000Z</published>
+    <updated>2019-06-26T02:57:45.635Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="最近写论文的感受（内在原因和外在原因）："><a href="#最近写论文的感受（内在原因和外在原因）：" class="headerlink" title="最近写论文的感受（内在原因和外在原因）："></a>最近写论文的感受（内在原因和外在原因）：</h4><ol><li>主要自己见识不够,看的论文比较少。</li><li>自己学习能力太差，做出来需要好长时间。</li><li>接触的资源不是一手的有的甚至是3、4手的。</li><li>网络屏蔽，书中推荐的学习网址访问不了，更多优秀的资源没法获取到。 </li><li>自己电脑硬件跟不上，硬件不匹配，更可怕的是你没有经济来源去改变这些情况。</li><li>生活压力大，学校的补助少，毕竟长大了，仅仅人情礼节的这一点都够头大了更别说其他了，没有经济来源，没法集中精力搞科研。</li></ol><h4 id="学校没给学生分配edu邮箱"><a href="#学校没给学生分配edu邮箱" class="headerlink" title="学校没给学生分配edu邮箱"></a>学校没给学生分配edu邮箱</h4><p>没有这邮箱，向国外申请实验数据集很难。只能自己想办法，目前已经用学历证明在GitHub申请自己的学生身份。<br><br>目前有GitHub的学生证明福利还是挺好的，好多软件为学生提供不要激活码的服务。</p><hr><a id="more"></a><h4 id="看的论文质量从好到坏可以分为这几类情况："><a href="#看的论文质量从好到坏可以分为这几类情况：" class="headerlink" title="看的论文质量从好到坏可以分为这几类情况："></a>看的论文质量从好到坏可以分为这几类情况：</h4><ol><li>有的人把实验做出来，并把别人的论文复现，通过比较说明自己的方法就是好。</li><li>有的人把实验做了，但由于数据过多并没有具体说明得出的结果是用那部分数据做出的，异常值是如何处理的,实验解决有待怀疑。</li><li>有的人没做实验，数据造假：直接套路模板先写别人用了啥方法，自己用了啥方法，随后在论文中把那些方法的基础理论介绍一遍，在实验对比部分把自己的结果写的比别人好一些。</li><li>有的人爬梯子过去，把国外的论文翻译后直接发了。</li><li>有的人直接引用甚至照抄以上论文（不包括1）烂上加烂。</li></ol><p>####：为什么会有造假现象发生（自己愚见）： </p><ol><li>社会风气：急功近利地教育：从小到大都接受着如何走捷径，如提分技巧，赚钱技巧，升职技巧……;教人要有耐性，君子务本做好自己的事太少太少。这种环境成长起来的我们怎能耐着性子做科研。</li><li>知识分子变节：教师失去社会责任感，他们的责任对国家尤为重要，现在的风气，教师的职责已经不是传道受业，有良心的是传技授业，还有一部分是混日子。（国家的原因，对老师的政策偏向太薄）。</li><li>教育制度：水课太多，浪费了学生的时间。毕业时间太短，延期只能2年或多一点（这个数字不定），时间过了没做出东西直接取消学位。真正的科研不是1,2年能解决问题的，应设置特例制度。</li><li>家庭教育很重要，家长的见识对孩子影响很大。</li><li>学识见识不够：我们了解的国家更多的是英美日韩，而且大多是通过电视剧和不得不考的英语了解的。这个世界很精彩，国家也很多，有条件的话多出去转转。我们自认为论文有个创新点，你能保证其他人或其他国家没做出来？</li></ol><h4 id="告诫自己"><a href="#告诫自己" class="headerlink" title="告诫自己"></a>告诫自己</h4><p>一定要在做出实验的基础上去写论文，否则不要动笔，哪怕延期都可以接受。千万不要造数据或抄袭，查出来取消学位断送自己的前程那是活该不多说，关键坏了导师的名声，这真的很丧天良。导师为我们提供很好的学习环境，不写出个好论文，真对不起导师，更对不起自己和家长，读研，要有意义，真的得静下心来，耐住性子去研究个东西。<br></p><p>我妈好几次打电话还不停告诫我：<br>电视上的xxx还是明星里或者xxxx还是教授里，名牌大学毕业的，都查出来了取消学位咧，丢人的很<br>你就不好好弄<br>你要好好学<br>不要造假<br>被查出来<br>书，就白念咧<br></p><p>写论文时，这几句话时不时会在耳旁想起......</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;最近写论文的感受（内在原因和外在原因）：&quot;&gt;&lt;a href=&quot;#最近写论文的感受（内在原因和外在原因）：&quot; class=&quot;headerlink&quot; title=&quot;最近写论文的感受（内在原因和外在原因）：&quot;&gt;&lt;/a&gt;最近写论文的感受（内在原因和外在原因）：&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;主要自己见识不够,看的论文比较少。&lt;/li&gt;
+&lt;li&gt;自己学习能力太差，做出来需要好长时间。&lt;/li&gt;
+&lt;li&gt;接触的资源不是一手的有的甚至是3、4手的。&lt;/li&gt;
+&lt;li&gt;网络屏蔽，书中推荐的学习网址访问不了，更多优秀的资源没法获取到。 &lt;/li&gt;
+&lt;li&gt;自己电脑硬件跟不上，硬件不匹配，更可怕的是你没有经济来源去改变这些情况。&lt;/li&gt;
+&lt;li&gt;生活压力大，学校的补助少，毕竟长大了，仅仅人情礼节的这一点都够头大了更别说其他了，没有经济来源，没法集中精力搞科研。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;学校没给学生分配edu邮箱&quot;&gt;&lt;a href=&quot;#学校没给学生分配edu邮箱&quot; class=&quot;headerlink&quot; title=&quot;学校没给学生分配edu邮箱&quot;&gt;&lt;/a&gt;学校没给学生分配edu邮箱&lt;/h4&gt;&lt;p&gt;没有这邮箱，向国外申请实验数据集很难。只能自己想办法，目前已经用学历证明在GitHub申请自己的学生身份。&lt;br&gt;&lt;br&gt;目前有GitHub的学生证明福利还是挺好的，好多软件为学生提供不要激活码的服务。&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+      <category term="随想" scheme="https://yutianachao.com/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2.OpenCV+Python 读取视频并处理</title>
     <link href="https://yutianachao.com/2019/06/20/Opencv-p2/"/>
     <id>https://yutianachao.com/2019/06/20/Opencv-p2/</id>
     <published>2019-06-20T14:08:21.000Z</published>
-    <updated>2019-06-21T06:01:01.818Z</updated>
+    <updated>2019-06-23T00:03:31.144Z</updated>
     
     <content type="html"><![CDATA[<pre><code>主要学习内容：1.读取视频2.把视频转换为灰度视频</code></pre><a id="more"></a><h4 id="读取视频"><a href="#读取视频" class="headerlink" title="读取视频"></a>读取视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示彩色视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="把视频转换为灰度视频"><a href="#把视频转换为灰度视频" class="headerlink" title="把视频转换为灰度视频"></a>把视频转换为灰度视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BGR_FREAM"</span>,frame)</span><br><span class="line">    <span class="comment"># 把视频转化为灰度视频</span></span><br><span class="line">    gray_frame=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)</span><br><span class="line">    cv2.imshow(<span class="string">"GRAY_FREAM"</span>, gray_frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><pre><code>最近学习视频剪辑，好多地方还是不够熟练，厚着脸皮在中途强行加了段戏ing</code></pre><iframe src="//player.bilibili.com/player.html?aid=56247053&cid=98306883&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     
@@ -47,14 +249,14 @@
     <link href="https://yutianachao.com/2019/06/20/Git/"/>
     <id>https://yutianachao.com/2019/06/20/Git/</id>
     <published>2019-06-20T09:50:36.000Z</published>
-    <updated>2019-06-21T05:57:13.642Z</updated>
+    <updated>2019-06-26T15:08:13.935Z</updated>
     
-    <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？<br> 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背影，若即若离、似有似无，只见其深深地吸了口烟，略有所思地望着星空，在吐出烟的一刹那嘴里蹦出几个字：用的是我,Git！！！<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3>]]></content>
+    <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的偶像搞基用的是什么工具？<br> 此时手机铃声为《上海滩》的背景音乐响起，此时天空划过一道闪光，照的让人睁不开眼：用的是我,Git！！！ 带有神秘光环的男一号出场了ing<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p><ol><li>Git是怎样诞生的诞生的?</li><li>什么是分布式？    </li><li>什么又是版本管理工具<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li></ol><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。&lt;/p&gt;
-&lt;h3 id=&quot;Git是什么鬼？&quot;&gt;&lt;a href=&quot;#Git是什么鬼？&quot; class=&quot;headerlink&quot; title=&quot;Git是什么鬼？&quot;&gt;&lt;/a&gt;Git是什么鬼？&lt;/h3&gt;&lt;p&gt; 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸的老前辈搞基用的是什么工具？&lt;br&gt; 此时手机铃声为《上海滩》的背景音乐响起，不远处闪过一个神秘的背影，若即若离、似有似无，只见其深深地吸了口烟，略有所思地望着星空，在吐出烟的一刹那嘴里蹦出几个字：用的是我,Git！！！&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。&lt;br&gt;编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。&lt;br&gt;就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……&lt;/p&gt;
+&lt;h3 id=&quot;Git是什么鬼？&quot;&gt;&lt;a href=&quot;#Git是什么鬼？&quot; class=&quot;headerlink&quot; title=&quot;Git是什么鬼？&quot;&gt;&lt;/a&gt;Git是什么鬼？&lt;/h3&gt;&lt;p&gt; 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的偶像搞基用的是什么工具？&lt;br&gt; 此时手机铃声为《上海滩》的背景音乐响起，此时天空划过一道闪光，照的让人睁不开眼：用的是我,Git！！！ 带有神秘光环的男一号出场了ing&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -68,11 +270,11 @@
   </entry>
   
   <entry>
-    <title>OpenCV_Day1</title>
+    <title>1.OpenCV+Python 读取图片并处理</title>
     <link href="https://yutianachao.com/2019/06/19/OpenCV-p1/"/>
     <id>https://yutianachao.com/2019/06/19/OpenCV-p1/</id>
     <published>2019-06-18T22:28:12.000Z</published>
-    <updated>2019-06-21T04:34:24.283Z</updated>
+    <updated>2019-06-23T00:03:01.832Z</updated>
     
     <content type="html"><![CDATA[<p>学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。<br>    主要学习内容：<br>    1.显示一张彩色图片<br>    2.把彩色图片转化为灰度图片<br>    3.保存图片</p><a id="more"></a><h4 id="显示一张彩色图片"><a href="#显示一张彩色图片" class="headerlink" title="显示一张彩色图片"></a>显示一张彩色图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">cv2.imshow(<span class="string">"imge"</span>,image)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/p1_health.jpg" alt="显示彩色图片"></p><h4 id="把彩色图片转化为灰度图片"><a href="#把彩色图片转化为灰度图片" class="headerlink" title="把彩色图片转化为灰度图片"></a>把彩色图片转化为灰度图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)  </span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imshow(<span class="string">"gray_image"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/gray_p1_health.jpg" alt="把彩色图片转化为灰度图片"></p><h4 id="保存图片"><a href="#保存图片" class="headerlink" title="保存图片"></a>保存图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imwrite(<span class="string">"gray_p1_health.jpg"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码解释"><a href="#代码解释" class="headerlink" title="代码解释"></a>代码解释</h4><iframe src="//player.bilibili.com/player.html?aid=56114899&cid=98085178&page=1" height="400" width="600" scrolling="true" border="1" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     
