@@ -18,14 +18,14 @@
 <meta name="description" content="主要学习内容： 1.图像中的点 2.图像中的线 3.图像中的面 ####  1234567891011121314151617181920212223242526272829303132333435import cv2import  numpy as npimg=cv2.imread(&quot;p4.jpg&quot;)#点print(img[200, 200])img[200, 200] = (0, 0, 0)p">
 <meta name="keywords" content="python,数字图像处理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="4.OpenCV+Python 图片在电脑中的是什么">
+<meta property="og:title" content="4.OpenCV+Python 图片在电脑中是什么">
 <meta property="og:url" content="https://yutianachao.com/2019/06/22/Opencv-p4/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
 <meta property="og:description" content="主要学习内容： 1.图像中的点 2.图像中的线 3.图像中的面 ####  1234567891011121314151617181920212223242526272829303132333435import cv2import  numpy as npimg=cv2.imread(&quot;p4.jpg&quot;)#点print(img[200, 200])img[200, 200] = (0, 0, 0)p">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-23T11:29:43.477Z">
+<meta property="og:updated_time" content="2019-07-14T12:34:59.756Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="4.OpenCV+Python 图片在电脑中的是什么">
+<meta name="twitter:title" content="4.OpenCV+Python 图片在电脑中是什么">
 <meta name="twitter:description" content="主要学习内容： 1.图像中的点 2.图像中的线 3.图像中的面 ####  1234567891011121314151617181920212223242526272829303132333435import cv2import  numpy as npimg=cv2.imread(&quot;p4.jpg&quot;)#点print(img[200, 200])img[200, 200] = (0, 0, 0)p">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -58,7 +58,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>4.OpenCV+Python 图片在电脑中的是什么 | 老雷的书房菜</title>
+<title>4.OpenCV+Python 图片在电脑中是什么 | 老雷的书房菜</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -224,7 +224,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      4.OpenCV+Python 图片在电脑中的是什么
+      4.OpenCV+Python 图片在电脑中是什么
     </h1>
   
 
@@ -255,6 +255,9 @@
 3.图像中的面</code></pre><hr>
 <p>#### </p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p4.jpg"</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">#点</span></span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line">img[200, 200] = (0, 0, 0)</span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 线  高20--720；宽 600</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(1,700):</span><br><span class="line">    img[20+i][600]=(255,0,255)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 面</span></span><br><span class="line">img[100:200,100:300,0]=0</span><br><span class="line">img[100:200,100:300,1]=255</span><br><span class="line">img[100:200,100:300,2]=0</span><br><span class="line"></span><br><span class="line"><span class="comment"># ROI</span></span><br><span class="line">violet = (180, 0, 180)</span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line"></span><br><span class="line">ROI=img[300:680,750:1100]</span><br><span class="line">shape=ROI.shape</span><br><span class="line"><span class="comment"># 若两点,起始点 x1,y1 终点 x2,y2  则我们把感兴趣区域应写[y1:y2,x1:x2]</span></span><br><span class="line"></span><br><span class="line">cv2.imshow(<span class="string">"img"</span>, img)</span><br><span class="line">cv2.imshow(<span class="string">"ROI"</span>, ROI)</span><br><span class="line"></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<h4 id="视频讲解"><a href="#视频讲解" class="headerlink" title="视频讲解"></a>视频讲解</h4><iframe src="//player.bilibili.com/player.html?aid=58540477&cid=102095349&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 
       
@@ -290,7 +293,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#视频讲解"><span class="toc-number">1.</span> <span class="toc-text">视频讲解</span></a></li></ol>
         
     </div>
     <style>
@@ -335,7 +338,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/23/Opencv-p5/">人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中的是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/07/09/machinlearn/">machinlearn</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/23/opencv-p5-0/">人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
 
 
 
