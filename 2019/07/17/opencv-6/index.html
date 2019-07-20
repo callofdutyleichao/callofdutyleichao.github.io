@@ -15,17 +15,27 @@
 
 
 
-<meta name="description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta name="description" content="主要学习内容： 1.对三通道的认识  2.lenna图像处理界的女神">
+<meta name="keywords" content="python,数字图像处理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="老雷的书房菜">
-<meta property="og:url" content="https://yutianachao.com/2019/06/18/hello-world/index.html">
+<meta property="og:title" content="6 直方图">
+<meta property="og:url" content="https://yutianachao.com/2019/07/17/opencv-6/index.html">
 <meta property="og:site_name" content="老雷的书房菜">
-<meta property="og:description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta property="og:description" content="主要学习内容： 1.对三通道的认识  2.lenna图像处理界的女神">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-18T23:41:44.808Z">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/lenna1.jpg">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/lenna.png">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/zhongdao1.jpg">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/zhongdao.png">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/meixi1.jpg">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/meixi.png">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/boqiu.jpg">
+<meta property="og:image" content="https://yutianachao.com/2019/07/17/opencv-6/boqiu.png">
+<meta property="og:updated_time" content="2019-07-19T09:53:47.843Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="老雷的书房菜">
-<meta name="twitter:description" content="大家好，我叫雷超，很高兴小伙伴们访问我的博客。 折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。">
+<meta name="twitter:title" content="6 直方图">
+<meta name="twitter:description" content="主要学习内容： 1.对三通道的认识  2.lenna图像处理界的女神">
+<meta name="twitter:image" content="https://yutianachao.com/2019/07/17/opencv-6/lenna1.jpg">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -57,7 +67,7 @@
 <link href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>老雷的书房菜 | 老雷的书房菜</title>
+<title>6 直方图 | 老雷的书房菜</title>
 
 <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
@@ -204,11 +214,11 @@
     </div>
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
-      <div class="body-wrap"><article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-opencv-6" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2019/06/18/hello-world/" class="article-date">
-      <time datetime="2019-06-18T08:18:52.000Z" itemprop="datePublished">2019-06-18</time>
+      <a href="/2019/07/17/opencv-6/" class="article-date">
+      <time datetime="2019-07-17T12:41:52.000Z" itemprop="datePublished">2019-07-17</time>
 </a>
 
 
@@ -223,7 +233,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      老雷的书房菜
+      6 直方图
     </h1>
   
 
@@ -231,8 +241,16 @@
       
       <div class="article-info article-info-post">
         
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/Opencv/">Opencv</a>
+    </div>
+
 
         
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/python/">python</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/数字图像处理/">数字图像处理</a></li></ul>
+    </div>
+
         <div class="clearfix"></div>
       </div>
       
@@ -240,14 +258,18 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        <ul>
-<li>大家好，我叫雷超，很高兴小伙伴们访问我的博客。</li>
-<li>折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。<a id="more"></a>
+        <pre><code>主要学习内容：
+1.对三通道的认识 
+2.lenna图像处理界的女神</code></pre><hr>
+<a id="more"></a>
 
-</li>
-</ul>
-<h5 id="命的别名"><a href="#命的别名" class="headerlink" title="命的别名"></a><center>命的别名</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">命的别名就是心:</span><br><span class="line"></span><br><span class="line">请君放慢前方远行的步伐</span><br><span class="line">最珍贵的和最值得珍惜的就在身边</span><br><span class="line">那是千千万万人中最平凡的你</span><br><span class="line">也是千千万万人中最平凡的我</span><br></pre></td></tr></table></figure>
+<h4 id="视频讲解"><a href="#视频讲解" class="headerlink" title="视频讲解"></a>视频讲解</h4><iframe src="//player.bilibili.com/player.html?aid=59583920&cid=103804163&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
 
+<h4 id="对三通道的认识"><a href="#对三通道的认识" class="headerlink" title="对三通道的认识"></a>对三通道的认识</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">import numpy as np</span><br><span class="line">import cv2</span><br><span class="line">from matplotlib import pyplot as plt</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"bea1.jpg"</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment">#b g r 只是代表三个通道里的数字，并不是说b通道的图像是蓝色 g通道的图像是绿色 r通道的图像是红色，</span></span><br><span class="line"><span class="comment"># 我们看到图像显示的颜色是三个通道组合在一起的颜色</span></span><br><span class="line"> <span class="comment">#我们说的颜色是三通道组合起来的颜色而不是单通道显示的颜色</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">b ,g ,r=cv2.split(img)</span><br><span class="line"></span><br><span class="line">img[:,:,0]=0    <span class="comment">#  b  0     黑</span></span><br><span class="line">img[:,:,1]=255  <span class="comment">#  g  255  白</span></span><br><span class="line">img[:,:,2]=0    <span class="comment">#  r  0   黑</span></span><br><span class="line"></span><br><span class="line">bc ,gc ,rc=cv2.split(img)</span><br><span class="line">cv2.imshow(<span class="string">"bc"</span>,bc)</span><br><span class="line">cv2.imshow(<span class="string">"gc"</span>,gc)</span><br><span class="line">cv2.imshow(<span class="string">"rc"</span>,rc)</span><br><span class="line">cv2.imshow(<span class="string">"img2"</span>,img)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<h4 id="lenna图像处理界的女神"><a href="#lenna图像处理界的女神" class="headerlink" title="lenna图像处理界的女神"></a>lenna图像处理界的女神</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#直方图 ，为什么花花公子中的兔女郎lena是图像处理界的女神</span></span><br><span class="line">import numpy as np</span><br><span class="line">import cv2</span><br><span class="line">from matplotlib import pyplot as plt</span><br><span class="line"><span class="comment">#bea1.jpg</span></span><br><span class="line"><span class="comment">#beau2.jpg</span></span><br><span class="line"><span class="comment">#zhongdao1.jpg</span></span><br><span class="line"><span class="comment">#lenna1.jpg</span></span><br><span class="line"><span class="comment">#meixi1.jpg</span></span><br><span class="line"><span class="comment">#boqiu.jpg</span></span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"boqiu.jpg"</span>)</span><br><span class="line"><span class="comment">#1.该图适度的混合了细节、平滑区域、阴影和纹理，从而能很好的测试各种图像处理算法。</span></span><br><span class="line">b ,g ,r=cv2.split(img)</span><br><span class="line"></span><br><span class="line">cv2.imshow(<span class="string">"b"</span>,b)</span><br><span class="line">cv2.imshow(<span class="string">"g"</span>,g)</span><br><span class="line">cv2.imshow(<span class="string">"r"</span>,r)</span><br><span class="line">cv2.imshow(<span class="string">"img"</span>,img)</span><br><span class="line"></span><br><span class="line">plt.hist(b.ravel(),256,[0,256])</span><br><span class="line">plt.hist(g.ravel(),256,[0,256])</span><br><span class="line">plt.hist(r.ravel(),256,[0,256])</span><br><span class="line">plt.show()</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure>
+
+<h4 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="/2019/07/17/opencv-6/lenna1.jpg" alt="lenna 原图"><br><img src="/2019/07/17/opencv-6/lenna.png" alt="lenna 直方图"><br><img src="/2019/07/17/opencv-6/zhongdao1.jpg" alt="中岛美雪 原图"><br><img src="/2019/07/17/opencv-6/zhongdao.png" alt="中岛美雪 直方图"><br><img src="/2019/07/17/opencv-6/meixi1.jpg" alt="梅西 原图"><br><img src="/2019/07/17/opencv-6/meixi.png" alt="梅西 直方图"><br><img src="/2019/07/17/opencv-6/boqiu.jpg" alt="播求 原图"><br><img src="/2019/07/17/opencv-6/boqiu.png" alt="播求 直方图"></p>
 
       
     </div>
@@ -262,11 +284,17 @@
     <nav id="article-nav">
         
             <div id="article-nav-newer" class="article-nav-title">
-                <a href="/2019/06/19/OpenCV-p1/">
-                    1.OpenCV+Python 读取图片并处理
+                <a href="/2019/07/19/read2/">
+                    中国文化《欲海回狂》
                 </a>
             </div>
         
+        
+            <div id="article-nav-older" class="article-nav-title">
+                <a href="/2019/07/14/read1/">
+                    《钢琴师》
+                </a>
+            </div>
         
     </nav>
 
@@ -276,7 +304,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-5"><a class="toc-link" href="#命的别名"><span class="toc-number">1.</span> <span class="toc-text">命的别名</span></a></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#视频讲解"><span class="toc-number">1.</span> <span class="toc-text">视频讲解</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#对三通道的认识"><span class="toc-number">2.</span> <span class="toc-text">对三通道的认识</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#lenna图像处理界的女神"><span class="toc-number">3.</span> <span class="toc-text">lenna图像处理界的女神</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#运行结果"><span class="toc-number">4.</span> <span class="toc-text">运行结果</span></a></li></ol>
         
     </div>
     <style>
@@ -307,7 +335,7 @@
 
     <div class="scroll" id="post-nav-button">
         
-            <a href="/2019/06/19/OpenCV-p1/" title="上一篇: 1.OpenCV+Python 读取图片并处理">
+            <a href="/2019/07/19/read2/" title="上一篇: 中国文化《欲海回狂》">
                 <i class="fa fa-angle-left"></i>
             </a>
         
@@ -315,7 +343,9 @@
         <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
 
         
-            <a href="/" title="回到主页"><i class="fa fa-home"></i></a>
+            <a href="/2019/07/14/read1/" title="下一篇: 《钢琴师》">
+                <i class="fa fa-angle-right"></i>
+            </a>
         
     </div>
 

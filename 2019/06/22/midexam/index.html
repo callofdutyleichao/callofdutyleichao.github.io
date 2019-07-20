@@ -23,7 +23,7 @@
 <meta property="og:site_name" content="老雷的书房菜">
 <meta property="og:description" content="7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&amp;gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&amp;gt;已知坐标点。在允许有误差的情况下先把结果做出来。两种方法计算    分类：">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-26T14:58:12.233Z">
+<meta property="og:updated_time" content="2019-07-17T11:06:31.402Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="中期论文-视线坐标点预测">
 <meta name="twitter:description" content="7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&amp;gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&amp;gt;已知坐标点。在允许有误差的情况下先把结果做出来。两种方法计算    分类：">
@@ -264,18 +264,15 @@
 
 </li>
 </ul>
-<h5 id="星期一的任务，找瞳孔（完成）"><a href="#星期一的任务，找瞳孔（完成）" class="headerlink" title="星期一的任务，找瞳孔（完成）"></a>星期一的任务，找瞳孔（完成）</h5><p> 目前人眼瞳孔已经找到，但是由于噪音干扰不是很精确，准备这样解决：调取Trackbar画板调节灰度。<br><br> 瞳孔定位目前用这几种方法，前面处理过程，灰度变化，直方图均衡化，高斯滤波<br><br> 结果演示：</p>
-<h5 id="星期二的任务，制作数据集（）"><a href="#星期二的任务，制作数据集（）" class="headerlink" title="星期二的任务，制作数据集（）"></a>星期二的任务，制作数据集（）</h5><p> 由于时间赶得紧，先用右眼瞳孔中心的坐标做预测，随后时间允许的话，把两个瞳孔的坐标都加上。<br><br> 数据集收集：<br><br> 输入数据集：瞳孔中心坐标点(重要直接决定实验的好坏)，两个眼睛的左右眼角点，嘴巴的左右嘴角点，鼻尖（防止人身体移动时导致视线误差太大）。<br><br> 输出数据集: <br>先做个模拟键盘，先用四个区域做实验尝试看能测出不，随后扩展更大区域。<br></p>
-<ol>
-<li>做个模拟键盘分四个区域</li>
-<li>收集数据集<br>（没做完….）</li>
-</ol>
-<hr>
-<h5 id="星期三任务，训练网络模型测试结果"><a href="#星期三任务，训练网络模型测试结果" class="headerlink" title="星期三任务，训练网络模型测试结果"></a>星期三任务，训练网络模型测试结果</h5><ol>
-<li>先做一部分数据集测试，随后加入其它特征数据 </li>
-<li>老天呀，没想收集的结果是这样，我的心有点碎。</li>
-<li>寂寞孤单眼泪失落伤心和烦恼，许多事情真不是我们想的那样，仅仅收集数据，心里想的挺好，但是在收集的过程中没考虑电脑I/O的读写，太慢了，实时性很不好。<h5 id="星期四任务，眨眼算法的点击事件"><a href="#星期四任务，眨眼算法的点击事件" class="headerlink" title="星期四任务，眨眼算法的点击事件"></a>星期四任务，眨眼算法的点击事件</h5><h5 id="星期五任务，视线追踪和点击相结合"><a href="#星期五任务，视线追踪和点击相结合" class="headerlink" title="星期五任务，视线追踪和点击相结合"></a>星期五任务，视线追踪和点击相结合</h5><h5 id="周六天写论文"><a href="#周六天写论文" class="headerlink" title="周六天写论文"></a>周六天写论文</h5></li>
-</ol>
+<h5 id="双眼瞳孔检测"><a href="#双眼瞳孔检测" class="headerlink" title="双眼瞳孔检测"></a>双眼瞳孔检测</h5><iframe src="//player.bilibili.com/player.html?aid=58539919&cid=102094327&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
+<h5 id="单眼瞳孔检测"><a href="#单眼瞳孔检测" class="headerlink" title="单眼瞳孔检测"></a>单眼瞳孔检测</h5><iframe src="//player.bilibili.com/player.html?aid=58540188&cid=102094671&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+
+<h5 id="疲劳预警检测"><a href="#疲劳预警检测" class="headerlink" title="疲劳预警检测"></a>疲劳预警检测</h5><iframe src="//player.bilibili.com/player.html?aid=58540188&cid=102094754&page=3" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
       
     </div>
@@ -310,7 +307,7 @@
     <div id="toc" class="toc-article">
         <strong class="toc-title">文章目录</strong>
         
-            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#寻找瞳孔4种方法测试"><span class="toc-number">1.</span> <span class="toc-text">寻找瞳孔4种方法测试</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#星期一的任务，找瞳孔（完成）"><span class="toc-number">1.1.</span> <span class="toc-text">星期一的任务，找瞳孔（完成）</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#星期二的任务，制作数据集（）"><span class="toc-number">1.2.</span> <span class="toc-text">星期二的任务，制作数据集（）</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#星期三任务，训练网络模型测试结果"><span class="toc-number">1.3.</span> <span class="toc-text">星期三任务，训练网络模型测试结果</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#星期四任务，眨眼算法的点击事件"><span class="toc-number">1.4.</span> <span class="toc-text">星期四任务，眨眼算法的点击事件</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#星期五任务，视线追踪和点击相结合"><span class="toc-number">1.5.</span> <span class="toc-text">星期五任务，视线追踪和点击相结合</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#周六天写论文"><span class="toc-number">1.6.</span> <span class="toc-text">周六天写论文</span></a></li></ol></li></ol>
+            <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#寻找瞳孔4种方法测试"><span class="toc-number">1.</span> <span class="toc-text">寻找瞳孔4种方法测试</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#双眼瞳孔检测"><span class="toc-number">1.1.</span> <span class="toc-text">双眼瞳孔检测</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#单眼瞳孔检测"><span class="toc-number">1.2.</span> <span class="toc-text">单眼瞳孔检测</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#疲劳预警检测"><span class="toc-number">1.3.</span> <span class="toc-text">疲劳预警检测</span></a></li></ol></li></ol>
         
     </div>
     <style>
@@ -355,7 +352,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/read1/">读书笔记 第一周《钢琴师》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/opencv-p5-0/">人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/09/machinlearn/">machinlearn</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/07/20/read3/">自己给自己写的</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/19/read2/">中国文化《欲海回狂》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/17/opencv-6/">6 直方图</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/read1/">《钢琴师》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/opencv-p5-0/">5 人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/09/machinlearn/">machinlearn</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
 
 
 
