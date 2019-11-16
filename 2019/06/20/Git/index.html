@@ -23,7 +23,7 @@
 <meta property="og:site_name" content="老雷的书房菜">
 <meta property="og:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道…… Git是什么鬼？ 编程的小伙伴们都知道GitH">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-07-17T11:56:07.453Z">
+<meta property="og:updated_time" content="2019-08-31T16:03:27.600Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Git">
 <meta name="twitter:description" content="因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道…… Git是什么鬼？ 编程的小伙伴们都知道GitH">
@@ -250,13 +250,23 @@
       
           
         <p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p>
-<h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的偶像搞基用的是什么工具？<br> 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了ing<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p>
+<h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的同行，搞基用的是什么工具？<br> 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了…<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p>
 <ol>
-<li>Git是怎样诞生的诞生的?</li>
+<li>Git是怎样诞生的诞生的?<br>CVS(集中式)–&gt;SVN(集中式)–&gt;(geek收费 分布式)—&gt;git 免费（分布式）—&gt;github(托管网站)</li>
 <li>什么是分布式？    </li>
-<li>什么又是版本管理工具<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li>
+<li>什么又是版本管理工具<br>备份数据，历史记录，回到过去，团队合作，减少冲突，；<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li>
 </ol>
-<h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3>
+<h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3><pre><code>linux: 
+1. yum install git 
+2. git  clone  .... 
+3. git add  file  
+4. git commit file  
+5. git push 
+6.若有冲突：git pull</code></pre><p>####Git冲突是如何产生的<br>    若两个人在更新下来的工程文件中，建立各自的文件并且各自干各自的事情，则一定没冲突。<br>    若两人在更新下来的文件里,在同一文件的不同地方各自个各自的事情也没有冲突。<br>    若两人在更新下来的文件里,在同一文件的相同地方修改则发生冲突。<br>    先提交的那个人没事，后面提交的那个会报错，提示一个版本已经提交了相同的引用。<br>    git pull 后两人的代码合并，两人沟通，看留谁的代码，手动删除不用。</p>
+<p>####Git回到过去回到未来<br>    过去：1. git  log     2. git reset –hard  40位数字<br>    未来：1. git  reflog  2. git reset –hard  仅仅几位数</p>
+<p>####建立里程碑<br>    github:release</p>
+<p>####建立分支<br>    新的功能已经开始开发，但是以前的出现了bug ,为了不影响新的功能的开发则在之前的里程碑开一个分支。<br>    创建分支：git branch bug # bug 为分支的名字<br>    查看分支：git branch<br>    切换分支：git checkout bug<br>    合并：软件合并；github网站合并；多用软件少用命令行，效率源于工具的使用。</p>
+
       
     </div>
     
@@ -335,7 +345,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/07/20/read3/">自己给自己写的</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/19/read2/">中国文化《欲海回狂》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/17/opencv-6/">6 直方图</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/read1/">《钢琴师》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/opencv-p5-0/">5 人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/09/machinlearn/">machinlearn</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/11/16/dream29/">给29岁自己的信</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/31/Ccode/">Ccode</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/20/read3/">自己给自己写的</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/19/read2/">中国文化《欲海回狂》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/17/opencv-6/">6 直方图</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/read1/">《钢琴师》</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/14/opencv-p5-0/">5 人脸人眼检测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/07/09/machinlearn/">machinlearn</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/24/dlib/">dlib</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/little/">小论文--疲劳监测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/midexam/">中期论文-视线坐标点预测</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p4/">4.OpenCV+Python 图片在电脑中是什么</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/Opencv-p3/">3.OpenCV+Python 在图片上画画</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/22/theroy/">最近写论文感受</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Opencv-p2/">2.OpenCV+Python 读取视频并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/20/Git/">Git</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/19/OpenCV-p1/">1.OpenCV+Python 读取图片并处理</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/06/18/hello-world/">老雷的书房菜</a></li></ul>
 
 
 
