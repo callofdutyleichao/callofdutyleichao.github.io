@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yutianachao.com/"/>
-  <updated>2019-11-18T01:02:55.579Z</updated>
+  <updated>2019-11-20T11:44:21.951Z</updated>
   <id>https://yutianachao.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>datastruce</title>
+    <link href="https://yutianachao.com/2019/11/20/datastruce/"/>
+    <id>https://yutianachao.com/2019/11/20/datastruce/</id>
+    <published>2019-11-20T11:20:18.000Z</published>
+    <updated>2019-11-20T11:44:21.951Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里整理下自己学数据结构的过程：</p><ol><li>数组（模拟队列：单数组 循环数组）（约瑟夫环：公式法，递归法，数组法，链表法）（栈）</li><li>链表：单向链表，多项链表，单循环链表，多循环链表</li><li>栈：子程序调用；递归函数；表达式转换；二叉树遍历；深度遍历</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这里整理下自己学数据结构的过程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;数组（模拟队列：单数组 循环数组）（约瑟夫环：公式法，递归法，数组法，链表法）（栈）&lt;/li&gt;
+&lt;li&gt;链表：单向链表，多项链表，单循环链表，多循环链表&lt;/li&gt;
+&lt;li&gt;栈：子程序调用；递归函数；表达式转换；二叉
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一凡诗歌 2</title>
+    <link href="https://yutianachao.com/2019/11/20/poemlei1/"/>
+    <id>https://yutianachao.com/2019/11/20/poemlei1/</id>
+    <published>2019-11-20T11:16:01.000Z</published>
+    <updated>2019-11-20T11:45:10.529Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="迷茫的三十岁"><a href="#迷茫的三十岁" class="headerlink" title="迷茫的三十岁"></a>迷茫的三十岁</h4><p>真是没有用的人啊<br>到现在还没有个正经的工作<br>曾经幻想的世界逐渐地崩塌<br>要去的地方变得越来越小</p><p>再给自己一次机会吧<br>就像年轻时的母亲<br>耐心地陪着正在<br>不断摔倒又爬起<br>学着走路的自己</p><p>再给自己一次机会吧<br>就像中年时的父亲<br>为了生活<br>养活一家老小<br>默默地承受和忍耐</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;迷茫的三十岁&quot;&gt;&lt;a href=&quot;#迷茫的三十岁&quot; class=&quot;headerlink&quot; title=&quot;迷茫的三十岁&quot;&gt;&lt;/a&gt;迷茫的三十岁&lt;/h4&gt;&lt;p&gt;真是没有用的人啊&lt;br&gt;到现在还没有个正经的工作&lt;br&gt;曾经幻想的世界逐渐地崩塌&lt;br&gt;要去的地方变得越来越
+      
+    
+    </summary>
+    
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>一凡诗歌 1</title>
@@ -230,7 +278,7 @@
     <link href="https://yutianachao.com/2019/06/24/dlib/"/>
     <id>https://yutianachao.com/2019/06/24/dlib/</id>
     <published>2019-06-24T03:33:11.000Z</published>
-    <updated>2019-06-24T03:33:11.997Z</updated>
+    <updated>2019-11-20T11:44:49.924Z</updated>
     
     <summary type="html">
     
@@ -412,9 +460,9 @@
     <link href="https://yutianachao.com/2019/06/20/Git/"/>
     <id>https://yutianachao.com/2019/06/20/Git/</id>
     <published>2019-06-20T09:50:36.000Z</published>
-    <updated>2019-08-31T16:03:27.600Z</updated>
+    <updated>2019-11-20T11:44:46.182Z</updated>
     
-    <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的同行，搞基用的是什么工具？<br> 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了…<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p><ol><li>Git是怎样诞生的诞生的?<br>CVS(集中式)–&gt;SVN(集中式)–&gt;(geek收费 分布式)—&gt;git 免费（分布式）—&gt;github(托管网站)</li><li>什么是分布式？    </li><li>什么又是版本管理工具<br>备份数据，历史记录，回到过去，团队合作，减少冲突，；<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li></ol><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3><pre><code>linux: 1. yum install git 2. git  clone  .... 3. git add  file  4. git commit file  5. git push 6.若有冲突：git pull</code></pre><p>####Git冲突是如何产生的<br>    若两个人在更新下来的工程文件中，建立各自的文件并且各自干各自的事情，则一定没冲突。<br>    若两人在更新下来的文件里,在同一文件的不同地方各自个各自的事情也没有冲突。<br>    若两人在更新下来的文件里,在同一文件的相同地方修改则发生冲突。<br>    先提交的那个人没事，后面提交的那个会报错，提示一个版本已经提交了相同的引用。<br>    git pull 后两人的代码合并，两人沟通，看留谁的代码，手动删除不用。</p><p>####Git回到过去回到未来<br>    过去：1. git  log     2. git reset –hard  40位数字<br>    未来：1. git  reflog  2. git reset –hard  仅仅几位数</p><p>####建立里程碑<br>    github:release</p><p>####建立分支<br>    新的功能已经开始开发，但是以前的出现了bug ,为了不影响新的功能的开发则在之前的里程碑开一个分支。<br>    创建分支：git branch bug # bug 为分支的名字<br>    查看分支：git branch<br>    切换分支：git checkout bug<br>    合并：软件合并；github网站合并；多用软件少用命令行，效率源于工具的使用。</p>]]></content>
+    <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的同行，搞基用的是什么工具？<br> 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了…<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p><ol><li>Git是怎样诞生的诞生的?<br>CVS(集中式)–&gt;SVN(集中式)–&gt;(geek收费 分布式)—&gt;git 免费（分布式）—&gt;github(托管网站)</li><li>什么是分布式？    </li><li>什么又是版本管理工具<br>备份数据，历史记录，回到过去，团队合作，减少冲突，；<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li></ol><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3><pre><code>linux: 1. yum install git 2. git  clone  .... 3. git add  file  4. git commit -m &quot; descrtion&quot;5. git push 6.若有冲突：git pull</code></pre><p>####Git冲突是如何产生的<br>    若两个人在更新下来的工程文件中，建立各自的文件并且各自干各自的事情，则一定没冲突。<br>    若两人在更新下来的文件里,在同一文件的不同地方各自个各自的事情也没有冲突。<br>    若两人在更新下来的文件里,在同一文件的相同地方修改则发生冲突。<br>    先提交的那个人没事，后面提交的那个会报错，提示一个版本已经提交了相同的引用。<br>    git pull 后两人的代码合并，两人沟通，看留谁的代码，手动删除不用。</p><p>####Git回到过去回到未来<br>    过去：1. git  log     2. git reset –hard  40位数字<br>    未来：1. git  reflog  2. git reset –hard  仅仅几位数</p><p>####建立里程碑<br>    github:release</p><p>####建立分支<br>    新的功能已经开始开发，但是以前的出现了bug ,为了不影响新的功能的开发则在之前的里程碑开一个分支。<br>    创建分支：git branch bug # bug 为分支的名字<br>    查看分支：git branch<br>    切换分支：git checkout bug<br>    合并：软件合并；github网站合并；多用软件少用命令行，效率源于工具的使用。<br>    删除分支：git branch -d bug</p>]]></content>
     
     <summary type="html">
     
@@ -453,26 +501,6 @@
       <category term="python" scheme="https://yutianachao.com/tags/python/"/>
     
       <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>老雷的书房菜</title>
-    <link href="https://yutianachao.com/2019/06/18/hello-world/"/>
-    <id>https://yutianachao.com/2019/06/18/hello-world/</id>
-    <published>2019-06-18T08:18:52.000Z</published>
-    <updated>2019-06-18T23:41:44.808Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li>大家好，我叫雷超，很高兴小伙伴们访问我的博客。</li><li>折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。<a id="more"></a></li></ul><h5 id="命的别名"><a href="#命的别名" class="headerlink" title="命的别名"></a><center>命的别名</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">命的别名就是心:</span><br><span class="line"></span><br><span class="line">请君放慢前方远行的步伐</span><br><span class="line">最珍贵的和最值得珍惜的就在身边</span><br><span class="line">那是千千万万人中最平凡的你</span><br><span class="line">也是千千万万人中最平凡的我</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;大家好，我叫雷超，很高兴小伙伴们访问我的博客。&lt;/li&gt;
-&lt;li&gt;折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
     
   </entry>
   
