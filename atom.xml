@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yutianachao.com/"/>
-  <updated>2019-11-20T11:44:21.951Z</updated>
+  <updated>2020-01-17T14:48:41.975Z</updated>
   <id>https://yutianachao.com/</id>
   
   <author>
@@ -17,44 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>datastruce</title>
-    <link href="https://yutianachao.com/2019/11/20/datastruce/"/>
-    <id>https://yutianachao.com/2019/11/20/datastruce/</id>
-    <published>2019-11-20T11:20:18.000Z</published>
-    <updated>2019-11-20T11:44:21.951Z</updated>
+    <title>《思 归》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem15/"/>
+    <id>https://yutianachao.com/2020/01/17/poem15/</id>
+    <published>2020-01-17T14:43:35.000Z</published>
+    <updated>2020-01-17T14:48:41.975Z</updated>
     
-    <content type="html"><![CDATA[<p>这里整理下自己学数据结构的过程：</p><ol><li>数组（模拟队列：单数组 循环数组）（约瑟夫环：公式法，递归法，数组法，链表法）（栈）</li><li>链表：单向链表，多项链表，单循环链表，多循环链表</li><li>栈：子程序调用；递归函数；表达式转换；二叉树遍历；深度遍历</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这里整理下自己学数据结构的过程：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;数组（模拟队列：单数组 循环数组）（约瑟夫环：公式法，递归法，数组法，链表法）（栈）&lt;/li&gt;
-&lt;li&gt;链表：单向链表，多项链表，单循环链表，多循环链表&lt;/li&gt;
-&lt;li&gt;栈：子程序调用；递归函数；表达式转换；二叉
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一凡诗歌 2</title>
-    <link href="https://yutianachao.com/2019/11/20/poemlei1/"/>
-    <id>https://yutianachao.com/2019/11/20/poemlei1/</id>
-    <published>2019-11-20T11:16:01.000Z</published>
-    <updated>2019-11-20T11:45:10.529Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="迷茫的三十岁"><a href="#迷茫的三十岁" class="headerlink" title="迷茫的三十岁"></a>迷茫的三十岁</h4><p>真是没有用的人啊<br>到现在还没有个正经的工作<br>曾经幻想的世界逐渐地崩塌<br>要去的地方变得越来越小</p><p>再给自己一次机会吧<br>就像年轻时的母亲<br>耐心地陪着正在<br>不断摔倒又爬起<br>学着走路的自己</p><p>再给自己一次机会吧<br>就像中年时的父亲<br>为了生活<br>养活一家老小<br>默默地承受和忍耐</p>]]></content>
+    <content type="html"><![CDATA[<h5 id="思-归"><a href="#思-归" class="headerlink" title="思 归"></a><center>思 归</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">月缺，月圆，十二轮。</span><br><span class="line"></span><br><span class="line">北平，长安，几来回？</span><br><span class="line"></span><br><span class="line">思归，思归，情在骏奔，</span><br><span class="line"></span><br><span class="line">思归，思归，我心已归。</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h4 id=&quot;迷茫的三十岁&quot;&gt;&lt;a href=&quot;#迷茫的三十岁&quot; class=&quot;headerlink&quot; title=&quot;迷茫的三十岁&quot;&gt;&lt;/a&gt;迷茫的三十岁&lt;/h4&gt;&lt;p&gt;真是没有用的人啊&lt;br&gt;到现在还没有个正经的工作&lt;br&gt;曾经幻想的世界逐渐地崩塌&lt;br&gt;要去的地方变得越来越
+        &lt;h5 id=&quot;思-归&quot;&gt;&lt;a href=&quot;#思-归&quot; class=&quot;headerlink&quot; title=&quot;思 归&quot;&gt;&lt;/a&gt;&lt;center&gt;思 归&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=
       
     
     </summary>
@@ -62,22 +37,24 @@
       <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
+      <category term="思乡" scheme="https://yutianachao.com/tags/%E6%80%9D%E4%B9%A1/"/>
+    
   </entry>
   
   <entry>
-    <title>一凡诗歌 1</title>
-    <link href="https://yutianachao.com/2019/11/17/pomelei0/"/>
-    <id>https://yutianachao.com/2019/11/17/pomelei0/</id>
-    <published>2019-11-17T14:19:05.000Z</published>
-    <updated>2019-11-18T01:02:55.579Z</updated>
+    <title>《赠宁中则》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem14/"/>
+    <id>https://yutianachao.com/2020/01/17/poem14/</id>
+    <published>2020-01-17T14:40:31.000Z</published>
+    <updated>2020-01-17T14:46:05.059Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="相逢恰似陌路人"><a href="#相逢恰似陌路人" class="headerlink" title="相逢恰似陌路人"></a>相逢恰似陌路人</h4><p>渐渐的你变成了我不认识的样子<br>恰如我变成你不喜欢的样子<br>生命 在不知不觉中<br>模糊了彼此的模样<br>随后的日子<br>相逢的你我<br>仿似熟悉<br>但，更多是陌生</p><h4 id="忏悔"><a href="#忏悔" class="headerlink" title="忏悔"></a>忏悔</h4><p>苦难挫折的到来<br>比起沮丧<br>带来的更多是心静<br>自己曾经犯下的错<br>一幕幕的闪过<br>留下的更多是<br>忏悔和沉默</p>]]></content>
+    <content type="html"><![CDATA[<h5 id="《赠宁中则》"><a href="#《赠宁中则》" class="headerlink" title="《赠宁中则》"></a><center>《赠宁中则》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">君有弃我意，</span><br><span class="line"></span><br><span class="line">我无别君心。</span><br><span class="line"></span><br><span class="line">痴痴盼君把念转，</span><br><span class="line"></span><br><span class="line">无奈相思初见君。</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h4 id=&quot;相逢恰似陌路人&quot;&gt;&lt;a href=&quot;#相逢恰似陌路人&quot; class=&quot;headerlink&quot; title=&quot;相逢恰似陌路人&quot;&gt;&lt;/a&gt;相逢恰似陌路人&lt;/h4&gt;&lt;p&gt;渐渐的你变成了我不认识的样子&lt;br&gt;恰如我变成你不喜欢的样子&lt;br&gt;生命 在不知不觉中&lt;br&gt;模糊了
+        &lt;h5 id=&quot;《赠宁中则》&quot;&gt;&lt;a href=&quot;#《赠宁中则》&quot; class=&quot;headerlink&quot; title=&quot;《赠宁中则》&quot;&gt;&lt;/a&gt;&lt;center&gt;《赠宁中则》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;t
       
     
     </summary>
@@ -85,422 +62,304 @@
       <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
+      <category term="恋爱集" scheme="https://yutianachao.com/tags/%E6%81%8B%E7%88%B1%E9%9B%86/"/>
+    
   </entry>
   
   <entry>
-    <title>给29岁自己的信</title>
-    <link href="https://yutianachao.com/2019/11/16/dream29/"/>
-    <id>https://yutianachao.com/2019/11/16/dream29/</id>
-    <published>2019-11-16T14:14:39.000Z</published>
-    <updated>2019-11-16T14:46:52.958Z</updated>
+    <title>《路过什刹海酒吧》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem12/"/>
+    <id>https://yutianachao.com/2020/01/17/poem12/</id>
+    <published>2020-01-17T14:40:11.000Z</published>
+    <updated>2020-01-17T14:47:15.685Z</updated>
     
-    <content type="html"><![CDATA[<p>还有不到2个月就过年了，快进入而立之年的你，仍旧和大学毕业那时一样迷茫。<br>唯一让你欣喜的是找到了心中向往的自由之路，这条路走起来可能很艰难，但务必坚持：</p><ol><li>坚持锻炼身体保持斗志</li><li>学精专业技术</li><li>英语是这个时代的主流，无论如何请务必掌握。</li><li>对于一个普通家庭想出国的你来说，目前唯有学好日语才是最可行的，明年的时候在<br>希望日本能见到现在的你。</li></ol><h4 id="请务必充实自己，成为最好的自己–拥有自由的思想和独立的人格。"><a href="#请务必充实自己，成为最好的自己–拥有自由的思想和独立的人格。" class="headerlink" title="请务必充实自己，成为最好的自己–拥有自由的思想和独立的人格。"></a>请务必充实自己，成为最好的自己–拥有自由的思想和独立的人格。</h4>]]></content>
+    <content type="html"><![CDATA[<p>##### </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br></pre></td><td class="code"><pre><span class="line">都市夜色的霓虹，</span><br><span class="line"></span><br><span class="line">年轻人们的躁动。</span><br><span class="line"></span><br><span class="line">流浪歌手的舞台，</span><br><span class="line"></span><br><span class="line">请来首带劲的曲调。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">美女：</span><br><span class="line"></span><br><span class="line">张开你那诱人的唇，</span><br><span class="line"></span><br><span class="line">放生唱你心中的歌。</span><br><span class="line"></span><br><span class="line">扭动你那婀娜的腰，</span><br><span class="line"></span><br><span class="line">跳一段最拿手的舞。</span><br><span class="line"></span><br><span class="line">帅哥：</span><br><span class="line"></span><br><span class="line">拨动你那心爱的吉他，</span><br><span class="line"></span><br><span class="line">为你中意的人伴奏。</span><br><span class="line"></span><br><span class="line">空气弥漫着青春的旋律，</span><br><span class="line"></span><br><span class="line">有故事的你是今晚的主角。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">让时光永远驻留在此时，</span><br><span class="line"></span><br><span class="line">让年轻的心一直这样，</span><br><span class="line"></span><br><span class="line">让欢快的气氛在天空中飘荡。</span><br><span class="line"></span><br><span class="line">顺便经过沙河于辛庄一个少年的梦乡，</span><br><span class="line"></span><br><span class="line">请带走他内心的忧伤和对未来的彷徨。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">飘过青春的梦啊！</span><br><span class="line"></span><br><span class="line">总惊醒在沉睡中。</span><br><span class="line"></span><br><span class="line">不知不觉已一年过半，</span><br><span class="line"></span><br><span class="line">明年是否还是老样子。</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;还有不到2个月就过年了，快进入而立之年的你，仍旧和大学毕业那时一样迷茫。&lt;br&gt;唯一让你欣喜的是找到了心中向往的自由之路，这条路走起来可能很艰难，但务必坚持：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;坚持锻炼身体保持斗志&lt;/li&gt;
-&lt;li&gt;学精专业技术&lt;/li&gt;
-&lt;li&gt;英语是这个时代的
+        &lt;p&gt;##### &lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;b
       
     
     </summary>
     
-      <category term="我的梦想" scheme="https://yutianachao.com/categories/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="29岁" scheme="https://yutianachao.com/tags/29%E5%B2%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ccode</title>
-    <link href="https://yutianachao.com/2019/08/31/Ccode/"/>
-    <id>https://yutianachao.com/2019/08/31/Ccode/</id>
-    <published>2019-08-31T13:38:55.000Z</published>
-    <updated>2019-08-31T13:38:55.512Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="迷茫" scheme="https://yutianachao.com/tags/%E8%BF%B7%E8%8C%AB/"/>
     
   </entry>
   
   <entry>
-    <title>自己给自己写的</title>
-    <link href="https://yutianachao.com/2019/07/20/read3/"/>
-    <id>https://yutianachao.com/2019/07/20/read3/</id>
-    <published>2019-07-20T02:50:06.000Z</published>
-    <updated>2019-07-20T03:24:47.404Z</updated>
+    <title>《考研结果出的那天》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem11/"/>
+    <id>https://yutianachao.com/2020/01/17/poem11/</id>
+    <published>2020-01-17T14:33:46.000Z</published>
+    <updated>2020-01-17T14:47:12.419Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">《叹项羽》</span><br><span class="line"></span><br><span class="line">权御天下 垓下之围</span><br><span class="line">霸王卸甲 虞姬之泪</span><br><span class="line">步步惊心 刀光暴戾</span><br><span class="line">往事越千年</span><br><span class="line">秦川山河依旧</span><br><span class="line">莫话将相曾叱咤</span><br><span class="line">旭日东升</span><br><span class="line">且看今朝弄潮儿！</span><br></pre></td></tr></table></figure><a id="more"></a><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">《匆匆时光已而立》</span><br><span class="line"></span><br><span class="line">芳华不在</span><br><span class="line">任时光偷笑</span><br><span class="line">最无奈</span><br><span class="line">望天外 意踌躇</span><br><span class="line">晚霞漫天秋意浓</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">《祝考试顺利》</span><br><span class="line"></span><br><span class="line">旗开得胜日</span><br><span class="line">犒赏三军时</span><br><span class="line">我已为君倾满杯</span><br><span class="line">心切盼君归</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">《望月》</span><br><span class="line"></span><br><span class="line">他年望月异乡客</span><br><span class="line">今朝已是故乡人</span><br><span class="line">真自在 梦云端</span><br><span class="line">爷娘唤我乳儿名</span><br><span class="line">吃我儿时家常饭</span><br><span class="line">云端虽压月梢头</span><br><span class="line">十六夜定月满圆</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"> </span><br><span class="line">《游光孝寺》</span><br><span class="line"></span><br><span class="line">有人恰似无人在</span><br><span class="line">无人却似有人来</span><br><span class="line">准提音 佛子行</span><br><span class="line">北方燕 此时归</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《青春.问题集》</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">开学初次见你</span><br><span class="line"></span><br><span class="line">你在等人</span><br><span class="line"></span><br><span class="line">你很精神的给我打了声招呼</span><br><span class="line"></span><br><span class="line">吓我一条</span><br><span class="line"></span><br><span class="line">是等你男朋友吧！</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">再次见你 </span><br><span class="line"></span><br><span class="line">我在操场跑步</span><br><span class="line"></span><br><span class="line">你和你男朋友在磨合感情</span><br><span class="line"></span><br><span class="line">过去打了声不该打的招呼</span><br><span class="line"></span><br><span class="line">你俩害羞的走了</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">走出即将关闭的图书馆</span><br><span class="line"></span><br><span class="line">沿着校园的路瞎逛</span><br><span class="line"></span><br><span class="line">前方熟悉的身影是你男朋友吧</span><br><span class="line"></span><br><span class="line">我却不认识旁边牵手的你 </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">下次见面 </span><br><span class="line"></span><br><span class="line">请给我初次相逢的招呼</span><br><span class="line"></span><br><span class="line">我会轻轻的告诉你</span><br><span class="line"></span><br><span class="line">你是个善良的姑娘</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《青春.问题集》</span><br><span class="line"></span><br><span class="line">卸了妆  化了妆的人</span><br><span class="line"></span><br><span class="line">找不到当初的模样</span><br><span class="line"></span><br><span class="line">茫然地徘徊在霓虹灯下</span><br><span class="line"></span><br><span class="line">忘记了来时的路</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《考研结果出的那天》</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">迎着风</span><br><span class="line"></span><br><span class="line">凝望远方天空</span><br><span class="line"></span><br><span class="line">总有一种预感</span><br><span class="line"></span><br><span class="line">美好在等待</span><br><span class="line"></span><br><span class="line">恰似今日阳光</span><br></pre></td></tr></table></figure><p>在北京的日子</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《思 归》</span><br><span class="line"></span><br><span class="line">月缺，月圆，十二轮。</span><br><span class="line"></span><br><span class="line">北平，长安，几来回？</span><br><span class="line"></span><br><span class="line">思归，思归，情在骏奔，</span><br><span class="line"></span><br><span class="line">思归，思归，我心已归。</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《路过什刹海酒吧》</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">都市夜色的霓虹，</span><br><span class="line"></span><br><span class="line">年轻人们的躁动。</span><br><span class="line"></span><br><span class="line">流浪歌手的舞台，</span><br><span class="line"></span><br><span class="line">请来首带劲的曲调。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">美女：</span><br><span class="line"></span><br><span class="line">张开你那诱人的唇，</span><br><span class="line"></span><br><span class="line">放生唱你心中的歌。</span><br><span class="line"></span><br><span class="line">扭动你那婀娜的腰，</span><br><span class="line"></span><br><span class="line">跳一段最拿手的舞。</span><br><span class="line"></span><br><span class="line">帅哥：</span><br><span class="line"></span><br><span class="line">拨动你那心爱的吉他，</span><br><span class="line"></span><br><span class="line">为你中意的人伴奏。</span><br><span class="line"></span><br><span class="line">空气弥漫着青春的旋律，</span><br><span class="line"></span><br><span class="line">有故事的你是今晚的主角。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">让时光永远驻留在此时，</span><br><span class="line"></span><br><span class="line">让年轻的心一直这样，</span><br><span class="line"></span><br><span class="line">让欢快的气氛在天空中飘荡。</span><br><span class="line"></span><br><span class="line">顺便经过沙河于辛庄一个少年的梦乡，</span><br><span class="line"></span><br><span class="line">请带走他内心的忧伤和对未来的彷徨。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">飘过青春的梦啊！</span><br><span class="line"></span><br><span class="line">总惊醒在沉睡中。</span><br><span class="line"></span><br><span class="line">匆匆忙忙，遗忘多少容颜。</span><br><span class="line"></span><br><span class="line">唯一清晰的是亲人的脸。</span><br><span class="line"></span><br><span class="line">飘过青春的梦啊！</span><br><span class="line"></span><br><span class="line">总惊醒在沉睡中。</span><br><span class="line"></span><br><span class="line">不知不觉已一年过半，</span><br><span class="line"></span><br><span class="line">明年是否还是老样子。</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《登百望山有感》</span><br><span class="line"></span><br><span class="line">且前行，且前行。</span><br><span class="line"></span><br><span class="line">末路自有贵人助，</span><br><span class="line"></span><br><span class="line">怎惧前路烟雨蒙！</span><br><span class="line"></span><br><span class="line">安能屈,我自由。</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">《赠宁中则》</span><br><span class="line"></span><br><span class="line"> </span><br><span class="line">君有弃我意，</span><br><span class="line"></span><br><span class="line">我无别君心。</span><br><span class="line"></span><br><span class="line">痴痴盼君把念转，</span><br><span class="line"></span><br><span class="line">无奈相思初见君。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;《叹项羽》&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;权御天下 垓下之围&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;霸王卸甲 虞姬之泪&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;步步惊心 刀光暴戾&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;往事越千年&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;秦川山河依旧&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;莫话将相曾叱咤&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;旭日东升&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;且看今朝弄潮儿！&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="读书笔记" scheme="https://yutianachao.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="我心我诉" scheme="https://yutianachao.com/tags/%E6%88%91%E5%BF%83%E6%88%91%E8%AF%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>中国文化《欲海回狂》</title>
-    <link href="https://yutianachao.com/2019/07/19/read2/"/>
-    <id>https://yutianachao.com/2019/07/19/read2/</id>
-    <published>2019-07-19T14:34:43.000Z</published>
-    <updated>2019-07-20T02:48:00.634Z</updated>
-    
-    <content type="html"><![CDATA[<h5 id="读《欲海回狂》笔记"><a href="#读《欲海回狂》笔记" class="headerlink" title="读《欲海回狂》笔记"></a>读《欲海回狂》笔记</h5><p>今天分享有关邪淫的危害，真诚发愿，希望社会、学校少一些悲剧的发生，多一些正能量的传递。<br>人世间有一种极其惨烈的祸患致使家庭衰败，恶名远扬，那便是邪淫。那些道德败坏的人，纵情花柳暗巷，滥用钱财、手段甚至手中的权力做出违背社会伦理的恶行。这些人所受的果报极其惨烈，不仅无法享受天年而且随时可能丧身殒命，更可怕的是连累家庭，祸患延及后人。<br>常言道：万恶淫为源。《欲海回狂》讲：世人由邪淫色欲直接导致死亡的占40%，间接导致死亡的占40%，由于邪淫贪色使得身体亏空，当受到风寒或疾病时，身体失去了抵抗力从而引发更大的疾病。有的人把此事归为命不好，殊不知这些人自我作践父母给的健康体魄，以至落到如此下场，怎么能说是命中注定呢？当艳女妖姬投怀献媚时，君子应视为莫大的祸患加以拒绝，然而小人却把这当成莫大的幸福毫无节制地加以享用。”福祸无门，惟人自召”，还望有识之士举头三尺当自省，莫把本该属于自己的福报断送在片刻的欢愉中。即使夫妻间正当的性行为也应适当的节制而不应长期放纵沉迷其中。<br>邪淫一念起，天地鬼神愤。若毁坏别人家女子的贞操，就会在自己妻女身上偿还，若玷污别人家的名誉，自己的子孙遭受同样的报应。</p><a id="more"></a><p>《四十二章经》告诫人们：若遇到年老的女人，把她们视为自己的母亲，年长或年轻的女人，把她们视为姐妹，年纪幼小的女孩把她们视为自己的亲生女儿，这样可熄灭自己邪淫的念头。《梵网经》从轮回转世来看，一切女人皆我母，应怀着孝顺心，慈悲心去保护她们，又怎敢生出邪淫之心加以玷污呢？将心比心，若今天有人奸淫自己的妻女姊妹，你肯定会愤怒甚至去追杀对方，然而当你看到身旁走过的女人竟心生淫念，难道对方不是别人的妻女姊妹？<br>明朝有位学生淫欲很重，却又克制不住，因此请教王龙溪先生。老先生说：若有人告诉你这附近有几个名妓，你可以找她们做乐。你去以后恰好看到其他人正和她们做乐，而她们恰好是你的女儿、母亲和姐妹,你作何感想？学生听后羞愧地低头走了。<br>因此普劝青年志士，才学名流，应当及时醒悟，遏制贪欲恢复良知良德。也希望父亲以此教育儿子，兄长勉励幼弟，为师劝诫学徒，朋友相互勉励，立志如山，守身如玉。这样的长此以往，自己和家人可以平安吉祥，国家社会可以安定和谐。如此美满的结果，还望仁人君子以身作则，当仁不让。</p><hr><h5 id="零碎知识"><a href="#零碎知识" class="headerlink" title="零碎知识"></a>零碎知识</h5><p> 民国的史量才在历史上算个人物，接手了《申报》，用现代化的管理方式成为报业老大，当时的社会地位连杜月笙都敬他三分！！！真牛。他曾说：国有国格，报有报格，人有人格，他勇于做人民喉舌，不屈不挠为民争取言论自由。但是对于自由，若一再强调，很容易被自由绑架，许多言论不论真假，往往披上了自由的外衣，会引导社会形成错误的认知，同时也会给自己带来危险。</p><p>南怀瑾先生去杭州城隍庙拜师，老师对他的指点使他受益终生。<br>1.读书不要把自己的精神外泄而要把书中的神吸引过来。<br>2.我们的心脏只有拳头那么大，心里不该装的事别装，否则很容易短命的。</p><p>父亲南怀瑾初到四川无依无靠，得到有缘人钱吉相助。当别离后再次去寻恩友，早已不知下落。随后听人说在文革时见过一次，他在大街上卖旧衣服。父亲听完眼角湿润：蜀道处登一饭难，唯君母子护安康。父亲在困难的时候三天没吃过一口饭，实在没办法了就在馒头摊上偷了两个，所幸没被抓住。后来他讲课时，常引用古句 “美人卖笑千金易、壮士穷途一饭难”告诫自己的学生：要知道人生的艰难，尽管在春风得意时，也要有忧患意识。</p><p>为人处世：</p><p>送人东西，尤其是吃的，人不在不要直接放在他桌子上，尤其是这个朋友可能第二天才来，更不要这样。一方面担心蚊虫蟑鼠叮咬，一方面担心居心叵测之人做手脚。</p><hr>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h5 id=&quot;读《欲海回狂》笔记&quot;&gt;&lt;a href=&quot;#读《欲海回狂》笔记&quot; class=&quot;headerlink&quot; title=&quot;读《欲海回狂》笔记&quot;&gt;&lt;/a&gt;读《欲海回狂》笔记&lt;/h5&gt;&lt;p&gt;今天分享有关邪淫的危害，真诚发愿，希望社会、学校少一些悲剧的发生，多一些正能量的传递。&lt;br&gt;人世间有一种极其惨烈的祸患致使家庭衰败，恶名远扬，那便是邪淫。那些道德败坏的人，纵情花柳暗巷，滥用钱财、手段甚至手中的权力做出违背社会伦理的恶行。这些人所受的果报极其惨烈，不仅无法享受天年而且随时可能丧身殒命，更可怕的是连累家庭，祸患延及后人。&lt;br&gt;常言道：万恶淫为源。《欲海回狂》讲：世人由邪淫色欲直接导致死亡的占40%，间接导致死亡的占40%，由于邪淫贪色使得身体亏空，当受到风寒或疾病时，身体失去了抵抗力从而引发更大的疾病。有的人把此事归为命不好，殊不知这些人自我作践父母给的健康体魄，以至落到如此下场，怎么能说是命中注定呢？当艳女妖姬投怀献媚时，君子应视为莫大的祸患加以拒绝，然而小人却把这当成莫大的幸福毫无节制地加以享用。”福祸无门，惟人自召”，还望有识之士举头三尺当自省，莫把本该属于自己的福报断送在片刻的欢愉中。即使夫妻间正当的性行为也应适当的节制而不应长期放纵沉迷其中。&lt;br&gt;邪淫一念起，天地鬼神愤。若毁坏别人家女子的贞操，就会在自己妻女身上偿还，若玷污别人家的名誉，自己的子孙遭受同样的报应。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="读书笔记" scheme="https://yutianachao.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="修身正气" scheme="https://yutianachao.com/tags/%E4%BF%AE%E8%BA%AB%E6%AD%A3%E6%B0%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>6 直方图</title>
-    <link href="https://yutianachao.com/2019/07/17/opencv-6/"/>
-    <id>https://yutianachao.com/2019/07/17/opencv-6/</id>
-    <published>2019-07-17T12:41:52.000Z</published>
-    <updated>2019-07-23T14:58:35.214Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>主要学习内容：1.对三通道的认识 2.lenna图像处理界的女神</code></pre><hr><a id="more"></a><h4 id="BGR三通道视频讲解分享"><a href="#BGR三通道视频讲解分享" class="headerlink" title="BGR三通道视频讲解分享"></a>BGR三通道视频讲解分享</h4><iframe src="//player.bilibili.com/player.html?aid=59811491&cid=104184514&page=2" height="400" width="600" scrolling="true" border="1" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe>#### 对三通道的认识 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">import numpy as np</span><br><span class="line">import cv2</span><br><span class="line">from matplotlib import pyplot as plt</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"bea1.jpg"</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment">#b g r 只是代表三个通道里的数字，并不是说b通道的图像是蓝色 g通道的图像是绿色 r通道的图像是红色，</span></span><br><span class="line"><span class="comment"># 我们看到图像显示的颜色是三个通道组合在一起的颜色</span></span><br><span class="line"> <span class="comment">#我们说的颜色是三通道组合起来的颜色而不是单通道显示的颜色</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">b ,g ,r=cv2.split(img)</span><br><span class="line"></span><br><span class="line">img[:,:,0]=0    <span class="comment">#  b  0     黑</span></span><br><span class="line">img[:,:,1]=255  <span class="comment">#  g  255  白</span></span><br><span class="line">img[:,:,2]=0    <span class="comment">#  r  0   黑</span></span><br><span class="line"></span><br><span class="line">bc ,gc ,rc=cv2.split(img)</span><br><span class="line">cv2.imshow(<span class="string">"bc"</span>,bc)</span><br><span class="line">cv2.imshow(<span class="string">"gc"</span>,gc)</span><br><span class="line">cv2.imshow(<span class="string">"rc"</span>,rc)</span><br><span class="line">cv2.imshow(<span class="string">"img2"</span>,img)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="lenna图像处理界的女神视频分享"><a href="#lenna图像处理界的女神视频分享" class="headerlink" title="lenna图像处理界的女神视频分享"></a>lenna图像处理界的女神视频分享</h4><iframe src="//player.bilibili.com/player.html?aid=60299349&cid=104988076&page=1" height="400" width="600" scrolling="true" border="1" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe><h4 id="lenna图像处理界的女神"><a href="#lenna图像处理界的女神" class="headerlink" title="lenna图像处理界的女神"></a>lenna图像处理界的女神</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#直方图 ，为什么花花公子中的兔女郎lena是图像处理界的女神</span></span><br><span class="line">import numpy as np</span><br><span class="line">import cv2</span><br><span class="line">from matplotlib import pyplot as plt</span><br><span class="line"><span class="comment">#bea1.jpg</span></span><br><span class="line"><span class="comment">#beau2.jpg</span></span><br><span class="line"><span class="comment">#zhongdao1.jpg</span></span><br><span class="line"><span class="comment">#lenna1.jpg</span></span><br><span class="line"><span class="comment">#meixi1.jpg</span></span><br><span class="line"><span class="comment">#boqiu.jpg</span></span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"boqiu.jpg"</span>)</span><br><span class="line"><span class="comment">#1.该图适度的混合了细节、平滑区域、阴影和纹理，从而能很好的测试各种图像处理算法。</span></span><br><span class="line">b ,g ,r=cv2.split(img)</span><br><span class="line"></span><br><span class="line">cv2.imshow(<span class="string">"b"</span>,b)</span><br><span class="line">cv2.imshow(<span class="string">"g"</span>,g)</span><br><span class="line">cv2.imshow(<span class="string">"r"</span>,r)</span><br><span class="line">cv2.imshow(<span class="string">"img"</span>,img)</span><br><span class="line"></span><br><span class="line">plt.hist(b.ravel(),256,[0,256])</span><br><span class="line">plt.hist(g.ravel(),256,[0,256])</span><br><span class="line">plt.hist(r.ravel(),256,[0,256])</span><br><span class="line">plt.show()</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="/2019/07/17/opencv-6/lenna1.jpg" alt="lenna 原图"><br><img src="/2019/07/17/opencv-6/lenna.png" alt="lenna 直方图"><br><img src="/2019/07/17/opencv-6/zhongdao1.jpg" alt="中岛美雪 原图"><br><img src="/2019/07/17/opencv-6/zhongdao.png" alt="中岛美雪 直方图"><br><img src="/2019/07/17/opencv-6/meixi1.jpg" alt="梅西 原图"><br><img src="/2019/07/17/opencv-6/meixi.png" alt="梅西 直方图"><br><img src="/2019/07/17/opencv-6/boqiu.jpg" alt="播求 原图"><br><img src="/2019/07/17/opencv-6/boqiu.png" alt="播求 直方图"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;主要学习内容：
-1.对三通道的认识 
-2.lenna图像处理界的女神&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-    
-    </summary>
-    
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
-    
-    
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《钢琴师》</title>
-    <link href="https://yutianachao.com/2019/07/14/read1/"/>
-    <id>https://yutianachao.com/2019/07/14/read1/</id>
-    <published>2019-07-14T14:34:43.000Z</published>
-    <updated>2019-07-20T02:48:05.858Z</updated>
-    
-    <content type="html"><![CDATA[<p>大多战争一般分为三个阶段：</p><h5 id="摧毁对方的基础设施"><a href="#摧毁对方的基础设施" class="headerlink" title="摧毁对方的基础设施"></a>摧毁对方的基础设施</h5><p>摧毁对方的基础设施（教育、医疗、通讯…），从而扰乱敌国的经济市场。随后物价上涨、通货膨胀，钱失去了货币作用。大多在社会底层的人，生活需求退化为动物的本能。长时间在贫困饥饿疾病死亡的困扰下，该发生的罪恶和不该发生的都在这里发生。大四时看过一本大饥荒时期的纪实小说《饥饿的山村》：讲那个特殊年代，饿死的婴儿刚被埋晚上就有人挖出来吃，家里几个人只有一件衣服穿，谁出门谁穿;女人靠身体获得食物…。继续上面的《钢琴师》，即使在这样的环境下，仍然有一些有特权的人该喝酒喝酒该吃肉吃肉，在战争中发着横财…</p><a id="more"></a><p>分享书中的一段描述：</p><p>我正穿过广场，旁边有个穷苦的妇人手里提着用报纸包裹着的小铁桶；后面有个穿着破旧衣服的老头,他抱着双肩，浑身冷的打颤，吃力的在雪中行走。突然老头向前一扑，抓住老妇的铁桶，想把那夺过来。结果桶没落到他手里，却掉落在人行道上，热气腾腾的汤洒在脏兮兮的地上。<br>对于此事发生的突然，我们三个都站在那不动。妇人吓的说不出话来，随后呜咽地哭了起来。老头扑倒在泥泞的雪地上用舌头直接舔人行道上的汤，同时用手从两侧把汤挡住，不让往外流….</p><h5 id="制造恐慌散播谣言"><a href="#制造恐慌散播谣言" class="headerlink" title="制造恐慌散播谣言"></a>制造恐慌散播谣言</h5><p>用飞机散播传单，里面说着投降后给的优惠以及不会影响人们生活的话，与此同时制造暴乱和死亡事件，扩大恐慌感让波兰人相互猜忌。然而有时自己国家的负责人一边极力宣传与国家共存亡，一边想着如何逃跑。以下是文中的描述:</p><hr><p>比起敌人，我们更恨自己国家将领，还没打仗，自己选择了逃跑。对此民众还不知情。当初宣讲时还说，敌人连他的纽扣都不会碰到。的确，他安全了，我们怎么办？</p><hr><p>在这里，任何人都会被指控为间谍并立即执行枪决，不容解释。人们恐惧到了极点。</p><p>其中就有一个老妇人，她是音乐教师，她很自律但这个年代只能用怪癖来形容，会在固定的时间段内弹钢琴。随后遭受别人的议论，说她是间谍，弹的琴声是给德国发出的密码信号，愤怒的人们冲进那老妇的家把她捆绑住关进了地下室，然而这个行为反而救了她，没过几个小时，炸弹落到了她的公寓。</p><hr><h5 id="有计划的实施屠杀"><a href="#有计划的实施屠杀" class="headerlink" title="有计划的实施屠杀"></a>有计划的实施屠杀</h5><p>a.寻找内奸，把公众的矛盾引向人民内部矛盾，让他们自己窝里斗（选取犹太人自治委员会）</p><p>b.划分隔离区（在狭小的空间把人的罪恶压榨出来），以欺骗的政策手段狂敛人民财产。突然想起一部电影《人类清除计划》，讲的是在国家规定的某一天你可以做任何你想做的事，包括杀人抢劫…,这些都不犯法。但事实证明死的大多是最低层的人，有钱人可以买安保系统以及雇保镖。国家通过这种方式降低就业率增加财政收入</p><p>c.开始明目张胆的屠杀</p><hr><p>他们的警棍带着钉子和刀片，看不惯我们时就随意打骂。</p><p>6月1日犹太人大屠杀开始了，我们正在吃饭，突然想起了警告的枪声，随后我和家人拉开窗帘向下看，想知道发生了什么,对面的阳台也拉开窗帘向下看,我们两家之前是认识的。不幸的是德军走进了他们家，我们在这边看的清清楚楚，先是让他们站起来，他瘸腿的父亲在轮椅上没动，结果几个德国人把老人带着轮椅一起从四楼扔下去了,周围人都吓傻了。随后听见的是整个楼层响起扫射机枪的声音</p><p>波兰人和犹太人宁可自杀也不愿死在德国人手中，一些年轻人把公寓作为根据地开始反抗，这彻底惹恼了德国人，他们调用军队集中攻击，每当一幢楼被攻克时，就会看到有的妇女抱着自己的孩子直接从楼上跳下去。</p><p>当他们抓到我时我会从这个阳台上跳下去的，隐藏我的战友走时看了我一眼说：我也会服毒的</p><hr><p>德国人杀婴儿，平时提着孩子的腿向墙上一甩，孩子就没有哭声了。大街到处都是尸体，我为了寻找食物，装作尸体慢慢移动到被扫荡过的公寓。</p><p>战争让每个人的心变成了石头。</p><hr>苏联国家允许满怀仇恨、人格低下的人出于动物本能对统治阶级实施恐怖报复，他们屠杀上层统治阶级并且处决王室亲属。纳粹虽然用的方法不同，但和苏联一样，遵循一个理念：彻底消灭不同思想的人。<p>纳粹更矛盾，对外一方面维护资本主义法则，另一方面标榜社会主义。虽然赞成个人自由和宗教信仰自由，但又捣毁教堂排斥异己者。尽管提倡能者居上，但是你不是他们的成员，你再有能耐也无权参与。他不想把其他国家并入德国，但是却不断扩张和征服其他国家，竟然理直气壮的对外宣称是解放世界，会让其他国家保留自主权。</p><p>战争中不能一提到纳粹就与恶魔挂钩，德国人有好有坏，犹太人有好有坏，波兰人有好有坏….其中《钢琴师》的作者什皮尔曼是被德国人威尔姆.霍林菲尔德救的。在战争时期，他以德国人的身份救了好多犹太人和波兰人，然后德国战败，他被苏联俘虏：</p><p>1947年7月，维尔姆在战俘营中风，次年第二次中风。1950年，苏联军方虽然未找到相关的战争罪证，但因维尔姆有过在情报部门服役的经历，所以最终被判处25年苦役。同年，维尔姆被转移至斯大林格勒战俘营（此后又数度中风，最终瘫痪在床）1952年8月13日，他死于战俘营.以下为他的日记：</p><p>威尔姆.霍林菲尔德</p><hr><p>一些犹太人被强迫带进豪华的餐厅，被迫高兴地吃着各种美味，然后被迫带进公共浴池，被迫男女共洗… 媒体把这些拍成影片对外宣传，说犹太人多么骄奢淫逸，是社会的毒瘤,有的甚至把一战战败的原因都归于他们。</p><p>随后又把那些人屠杀…</p><p>说谎是一切邪恶中最坏的一种。我们一直被谎言欺骗，公众舆论一直被谎言误导。没有一页报纸不包含谎言，在世界各地，真理总是受到压制，事实总是被歪曲成截然相反的事。</p><p>我们给自己带来了永远抹不掉的耻辱，我们不值得宽恕，我们都有罪。我羞于走在这座城市，波兰任何一个人都有权利向我们吐口水，我们罪有应得，我在这里的心情糟糕透了。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;大多战争一般分为三个阶段：&lt;/p&gt;
-&lt;h5 id=&quot;摧毁对方的基础设施&quot;&gt;&lt;a href=&quot;#摧毁对方的基础设施&quot; class=&quot;headerlink&quot; title=&quot;摧毁对方的基础设施&quot;&gt;&lt;/a&gt;摧毁对方的基础设施&lt;/h5&gt;&lt;p&gt;摧毁对方的基础设施（教育、医疗、通讯…），从而扰乱敌国的经济市场。随后物价上涨、通货膨胀，钱失去了货币作用。大多在社会底层的人，生活需求退化为动物的本能。长时间在贫困饥饿疾病死亡的困扰下，该发生的罪恶和不该发生的都在这里发生。大四时看过一本大饥荒时期的纪实小说《饥饿的山村》：讲那个特殊年代，饿死的婴儿刚被埋晚上就有人挖出来吃，家里几个人只有一件衣服穿，谁出门谁穿;女人靠身体获得食物…。继续上面的《钢琴师》，即使在这样的环境下，仍然有一些有特权的人该喝酒喝酒该吃肉吃肉，在战争中发着横财…&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="读书笔记" scheme="https://yutianachao.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="战争" scheme="https://yutianachao.com/tags/%E6%88%98%E4%BA%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>5 人脸人眼检测</title>
-    <link href="https://yutianachao.com/2019/07/14/opencv-p5-0/"/>
-    <id>https://yutianachao.com/2019/07/14/opencv-p5-0/</id>
-    <published>2019-07-14T11:32:55.000Z</published>
-    <updated>2019-07-19T09:52:16.504Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>主要学习内容：1.人脸检测2.人眼检测</code></pre><hr><a id="more"></a><h4 id="视频讲解"><a href="#视频讲解" class="headerlink" title="视频讲解"></a>视频讲解</h4><iframe src="//player.bilibili.com/player.html?aid=59583920&cid=103804163&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe><h4 id="人脸检测"><a href="#人脸检测" class="headerlink" title="人脸检测"></a>人脸检测</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import numpy as np</span><br><span class="line"></span><br><span class="line"><span class="built_in">cap</span> = cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 加载人脸检测模块</span></span><br><span class="line">face_patterns = cv2.CascadeClassifier(<span class="string">'haarcascade_frontalface_alt2.xml'</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    _, frame = cap.read()</span><br><span class="line">    <span class="keyword">if</span> _ is None:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line">    <span class="comment"># 转化为灰度视频</span></span><br><span class="line">    gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)</span><br><span class="line">    <span class="comment"># cv2.imshow("gray_frame",gray_frame)</span></span><br><span class="line">    <span class="comment"># 1.人脸检测</span></span><br><span class="line">    faces = face_patterns.detectMultiScale(gray_frame, scaleFactor=1.1, minNeighbors=5, minSize=(100, 100))</span><br><span class="line">    <span class="keyword">for</span> x, y, w, h <span class="keyword">in</span> faces:</span><br><span class="line">        cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), thickness=2)</span><br><span class="line">        roi_faces = frame[y:y + h, x:x + w]</span><br><span class="line">        roi_gray_faces = gray_frame[y:y + h, x:x + w]</span><br><span class="line">        cv2.imshow(<span class="string">"roi_face"</span>, roi_faces)</span><br><span class="line">        cv2.imshow(<span class="string">"roi_gray_faces"</span>, roi_gray_faces)</span><br><span class="line">        <span class="comment">#cv2.moveWindow("roi_gray_faces",200,400)</span></span><br><span class="line">        <span class="comment">#cv2.imshow("roi_gray_faces", roi_gray_faces)</span></span><br><span class="line"></span><br><span class="line">    cv2.imshow(<span class="string">"frame"</span>, frame)</span><br><span class="line">    key = cv2.waitKey(30)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p>scaleFactor表示每次图像尺寸减小的比例</p><p>minNeighbors表示每一个目标至少要被检测到3次才算是真的目标(因为周围的像素和不同的窗口大小都可以检测到人脸),</p><p>minSize为目标的最小尺寸</p><p>maxSize为目标的最大尺寸</p><h4 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="/2019/07/14/opencv-p5-0/face.jpg" alt="人脸检测显示"></p><h4 id="人脸人眼检测"><a href="#人脸人眼检测" class="headerlink" title="人脸人眼检测"></a>人脸人眼检测</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import numpy as np</span><br><span class="line"></span><br><span class="line"><span class="built_in">cap</span> = cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 加载人脸人眼检测模块</span></span><br><span class="line">face_patterns = cv2.CascadeClassifier(<span class="string">'haarcascade_frontalface_alt2.xml'</span>)</span><br><span class="line"><span class="comment"># 加载人眼检测模块</span></span><br><span class="line">eye_patterns=cv2.CascadeClassifier(<span class="string">'haarcascade_eye_tree_eyeglasses.xml'</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    _, frame = cap.read()</span><br><span class="line">    <span class="keyword">if</span> _ is None:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line">    <span class="comment"># 转化为灰度视频</span></span><br><span class="line">    gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)</span><br><span class="line">    <span class="comment"># 1.人脸检测</span></span><br><span class="line">    faces = face_patterns.detectMultiScale(gray_frame, scaleFactor=1.1, minNeighbors=5, minSize=(100, 100))</span><br><span class="line">    <span class="keyword">for</span> x, y, w, h <span class="keyword">in</span> faces:</span><br><span class="line">        cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), thickness=2)</span><br><span class="line">        roi_faces = frame[y:y + h, x:x + w]</span><br><span class="line">        roi_gray_faces = gray_frame[y:y + h, x:x + w]</span><br><span class="line">        deceye = eye_patterns.detectMultiScale(roi_gray_faces, scaleFactor=1.1, minNeighbors=3, minSize=(32, 32))</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> len(deceye) &gt; 0:</span><br><span class="line">            <span class="keyword">for</span> eye_x, eye_y, eye_w, eye_h <span class="keyword">in</span> deceye:</span><br><span class="line">                roi_eye=roi_faces[eye_y:eye_y+eye_h,eye_x:eye_x+eye_w]</span><br><span class="line">                cv2.rectangle(roi_faces, (eye_x, eye_y), (eye_x + eye_w, eye_y +eye_h), (0, 255, 0), 2)</span><br><span class="line"></span><br><span class="line">    cv2.imshow(<span class="string">"frame"</span>, frame)</span><br><span class="line">    key = cv2.waitKey(30)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="运行结果-1"><a href="#运行结果-1" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="/2019/07/14/opencv-p5-0/faceeye.jpg" alt="人脸人眼检测显示"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;主要学习内容：
-1.人脸检测
-2.人眼检测&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-    
-    </summary>
-    
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
-    
-    
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>machinlearn</title>
-    <link href="https://yutianachao.com/2019/07/09/machinlearn/"/>
-    <id>https://yutianachao.com/2019/07/09/machinlearn/</id>
-    <published>2019-07-09T13:04:02.000Z</published>
-    <updated>2019-07-09T14:49:42.293Z</updated>
-    
-    <content type="html"><![CDATA[<ol><li>机器学习的应用领域：<br>图像识别<br>商品推荐<br>数据挖掘<br>无人驾驶<br>…</li><li>机器学习的公司<br>BAT<br>商汤科技<br>旷视科技<br>国外（google facebook 亚马逊 英伟达 英特尔）<a id="more"></a></li><li>机器学习：<br>根据相应的算法，利用历史数据训练出一个模型，把此模型应用于未来的数据结果的预测上。<br>人学习的过程：经历——&gt;学习思考—&gt;总结规律—&gt;迎接新事物（反馈调节）<br>机器学习过程：训练样本—&gt;算法学习—&gt;模型——&gt;用新数据预测结果（反馈调节）<br>共同点：训练阶段和预测阶段</li><li>机器学习分类<br> 监督学习（有标签）：回归和分类（二分类，多分类）<br> 非监督学习（无标签）：聚类、降维度、异常检测</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      &lt;ol&gt;
-&lt;li&gt;机器学习的应用领域：&lt;br&gt;图像识别&lt;br&gt;商品推荐&lt;br&gt;数据挖掘&lt;br&gt;无人驾驶&lt;br&gt;…&lt;/li&gt;
-&lt;li&gt;机器学习的公司&lt;br&gt;BAT&lt;br&gt;商汤科技&lt;br&gt;旷视科技&lt;br&gt;国外（google facebook 亚马逊 英伟达 英特尔）&lt;/li&gt;&lt;/ol&gt;
-    
-    </summary>
-    
-      <category term="机器学习" scheme="https://yutianachao.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-      <category term="基本概念" scheme="https://yutianachao.com/tags/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dlib</title>
-    <link href="https://yutianachao.com/2019/06/24/dlib/"/>
-    <id>https://yutianachao.com/2019/06/24/dlib/</id>
-    <published>2019-06-24T03:33:11.000Z</published>
-    <updated>2019-11-20T11:44:49.924Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>小论文--疲劳监测</title>
-    <link href="https://yutianachao.com/2019/06/22/little/"/>
-    <id>https://yutianachao.com/2019/06/22/little/</id>
-    <published>2019-06-22T03:58:46.000Z</published>
-    <updated>2019-07-22T08:49:18.313Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个论文国外已经发布了但有个问题，他的做法是用眼睛宽度除以长度，用SVR分析得出眨眼阈值，我的是用眼睛的长度除以宽度，然后记录这些比例值，用Kmean算法分析得出眨眼阈值。他的实验有不严谨的地方，我们得做补充。因为外国人和亚洲人的人体特征存在偏差，他们用的数据集是只适用于他们，我们可以用自己的数据集得出适应于我们的眨眼阈值。<br><br>外国好多优秀的论文，应用在自己国家或多或少会出问题，主要原因是参数不对。写论文，做实验做到最后更多时间停留在调参上。<br></p><h5 id="人眼眨眼检测"><a href="#人眼眨眼检测" class="headerlink" title="人眼眨眼检测"></a>人眼眨眼检测</h5><h5 id="罪犯识别"><a href="#罪犯识别" class="headerlink" title="罪犯识别"></a>罪犯识别</h5>]]></content>
+    <content type="html"><![CDATA[<p>##### </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">迎着风</span><br><span class="line"></span><br><span class="line">凝望远方天空</span><br><span class="line"></span><br><span class="line">总有一种预感</span><br><span class="line"></span><br><span class="line">美好在等待</span><br><span class="line"></span><br><span class="line">恰似今日阳光</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这个论文国外已经发布了但有个问题，他的做法是用眼睛宽度除以长度，用SVR分析得出眨眼阈值，我的是用眼睛的长度除以宽度，然后记录这些比例值，用Kmean算法分析得出眨眼阈值。他的实验有不严谨的地方，我们得做补充。因为外国人和亚洲人的人体特征存在偏差，他们用的数据集是只适用于他
+        &lt;p&gt;##### &lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;b
       
     
     </summary>
     
-      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-      <category term="疲劳监测" scheme="https://yutianachao.com/tags/%E7%96%B2%E5%8A%B3%E7%9B%91%E6%B5%8B/"/>
+      <category term="励志" scheme="https://yutianachao.com/tags/%E5%8A%B1%E5%BF%97/"/>
     
   </entry>
   
   <entry>
-    <title>中期论文-视线坐标点预测</title>
-    <link href="https://yutianachao.com/2019/06/22/midexam/"/>
-    <id>https://yutianachao.com/2019/06/22/midexam/</id>
-    <published>2019-06-22T03:58:29.000Z</published>
-    <updated>2019-07-17T11:06:31.402Z</updated>
+    <title>《青春.问题集》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem10/"/>
+    <id>https://yutianachao.com/2020/01/17/poem10/</id>
+    <published>2020-01-17T14:33:40.000Z</published>
+    <updated>2020-01-17T14:46:35.272Z</updated>
     
-    <content type="html"><![CDATA[<p>7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,<br>随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&gt;已知坐标点。在允许有误差的情况下先把结果做出来。<br>两种方法计算<br>    分类：把电脑分类为若干区域(使用SVM或深度学习方法)<br>    回归：SVR方法计算确定的坐标点（随后做，可以当小论文发）</p><a id="more"></a><hr><h4 id="寻找瞳孔4种方法测试"><a href="#寻找瞳孔4种方法测试" class="headerlink" title="寻找瞳孔4种方法测试"></a>寻找瞳孔4种方法测试</h4><ol><li>Adaboost:先把人脸确定了，根据眼睛在人脸的位置确定人眼粗略位置。</li><li>dlib：直接阈值调整找出瞳孔（局部地区太大了，这个保留，随后可用4,5方法做）。</li><li>基于局部极值的分水岭算法的圆斑点检测（做了，阈值参数不好找）</li><li>在人眼的ROI区域用边缘检测和霍夫圆检测（做了，阈值参数不好找）</li><li>有个眼睛梯度定位瞳孔（没测试）</li></ol><ul><li>对于要调节参数的随后有时间都会去完善，好不容易做到这一步了，不能放弃。<hr></li></ul><h5 id="双眼瞳孔检测"><a href="#双眼瞳孔检测" class="headerlink" title="双眼瞳孔检测"></a>双眼瞳孔检测</h5><iframe src="//player.bilibili.com/player.html?aid=58539919&cid=102094327&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe><h5 id="单眼瞳孔检测"><a href="#单眼瞳孔检测" class="headerlink" title="单眼瞳孔检测"></a>单眼瞳孔检测</h5><iframe src="//player.bilibili.com/player.html?aid=58540188&cid=102094671&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe><h5 id="疲劳预警检测"><a href="#疲劳预警检测" class="headerlink" title="疲劳预警检测"></a>疲劳预警检测</h5><iframe src="//player.bilibili.com/player.html?aid=58540188&cid=102094754&page=3" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;7月初中期答辩，我得抓紧时间好好弄。现在最主要的是把瞳孔中心找到先用两种方法尝试一下，随后要加一个跟踪算法，目前还不知道用哪个”Camshift、粒子滤波、卡尔曼滤波、”…..,&lt;br&gt;随后看电脑上的标定坐标，最后得出数据集：输入数据集为–&amp;gt;用Dlib机器学习库把人脸的特征点和之前得出的瞳孔坐标点收集起立；输出数据集–&amp;gt;已知坐标点。在允许有误差的情况下先把结果做出来。&lt;br&gt;两种方法计算&lt;br&gt;    分类：把电脑分类为若干区域(使用SVM或深度学习方法)&lt;br&gt;    回归：SVR方法计算确定的坐标点（随后做，可以当小论文发）&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
-    
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-      <category term="视线追踪" scheme="https://yutianachao.com/tags/%E8%A7%86%E7%BA%BF%E8%BF%BD%E8%B8%AA/"/>
-    
-      <category term="机器学习" scheme="https://yutianachao.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4.OpenCV+Python 图片在电脑中是什么</title>
-    <link href="https://yutianachao.com/2019/06/22/Opencv-p4/"/>
-    <id>https://yutianachao.com/2019/06/22/Opencv-p4/</id>
-    <published>2019-06-22T03:34:56.000Z</published>
-    <updated>2019-07-14T12:34:59.756Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>主要学习内容：1.图像中的点2.图像中的线3.图像中的面</code></pre><hr><p>#### </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p4.jpg"</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">#点</span></span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line">img[200, 200] = (0, 0, 0)</span><br><span class="line"><span class="built_in">print</span>(img[200, 200])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 线  高20--720；宽 600</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(1,700):</span><br><span class="line">    img[20+i][600]=(255,0,255)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 面</span></span><br><span class="line">img[100:200,100:300,0]=0</span><br><span class="line">img[100:200,100:300,1]=255</span><br><span class="line">img[100:200,100:300,2]=0</span><br><span class="line"></span><br><span class="line"><span class="comment"># ROI</span></span><br><span class="line">violet = (180, 0, 180)</span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line"></span><br><span class="line">ROI=img[300:680,750:1100]</span><br><span class="line">shape=ROI.shape</span><br><span class="line"><span class="comment"># 若两点,起始点 x1,y1 终点 x2,y2  则我们把感兴趣区域应写[y1:y2,x1:x2]</span></span><br><span class="line"></span><br><span class="line">cv2.imshow(<span class="string">"img"</span>, img)</span><br><span class="line">cv2.imshow(<span class="string">"ROI"</span>, ROI)</span><br><span class="line"></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="视频讲解"><a href="#视频讲解" class="headerlink" title="视频讲解"></a>视频讲解</h4><iframe src="//player.bilibili.com/player.html?aid=58540477&cid=102095349&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<h5 id="《青春-问题集》"><a href="#《青春-问题集》" class="headerlink" title="《青春.问题集》"></a><center>《青春.问题集》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">卸了妆  化了妆的人</span><br><span class="line"></span><br><span class="line">找不到当初的模样</span><br><span class="line"></span><br><span class="line">茫然地徘徊在霓虹灯下</span><br><span class="line"></span><br><span class="line">忘记了来时的路</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;pre&gt;&lt;code&gt;主要学习内容：
-1.图像中的点
-2.图像中的线
-3.图像中的面&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;p&gt;#### &lt;/p&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;
+        &lt;h5 id=&quot;《青春-问题集》&quot;&gt;&lt;a href=&quot;#《青春-问题集》&quot; class=&quot;headerlink&quot; title=&quot;《青春.问题集》&quot;&gt;&lt;/a&gt;&lt;center&gt;《青春.问题集》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;
       
     
     </summary>
     
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+      <category term="恋爱集" scheme="https://yutianachao.com/tags/%E6%81%8B%E7%88%B1%E9%9B%86/"/>
     
   </entry>
   
   <entry>
-    <title>3.OpenCV+Python 在图片上画画</title>
-    <link href="https://yutianachao.com/2019/06/22/Opencv-p3/"/>
-    <id>https://yutianachao.com/2019/06/22/Opencv-p3/</id>
-    <published>2019-06-22T03:34:31.000Z</published>
-    <updated>2019-06-26T14:59:14.885Z</updated>
+    <title>《青春.问题集》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem9/"/>
+    <id>https://yutianachao.com/2020/01/17/poem9/</id>
+    <published>2020-01-17T14:33:34.000Z</published>
+    <updated>2020-01-17T14:47:09.575Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>主要学习内容：1.图片大小变换,认识resize()函数2.在图像上画图，长方形、圆形、椭圆、多边形......</code></pre><hr><a id="more"></a><h4 id="图片大小变换"><a href="#图片大小变换" class="headerlink" title="图片大小变换"></a>图片大小变换</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"><span class="built_in">print</span>(img.shape)</span><br><span class="line"><span class="comment"># 1.调整尺寸</span></span><br><span class="line">width,height = 700,400</span><br><span class="line">chaimg=cv2.resize(img,(width,height))</span><br><span class="line"><span class="comment"># 1.1 img.shape 返回来的是什么值</span></span><br><span class="line">imgshape=chaimg.shape <span class="comment"># 高和宽  ROI 可以用到</span></span><br><span class="line"><span class="built_in">print</span>(imgshape)</span><br><span class="line">cv2.imshow(<span class="string">"chaimg"</span>,chaimg)</span><br><span class="line"><span class="comment">#ratioimg=cv2.resize(chaimg,(0,0),fx=1.5,fy=1.5,interpolation=cv2.INTER_LANCZOS4)</span></span><br><span class="line"><span class="comment">#cv2.imshow("ratioimg",ratioimg)</span></span><br><span class="line"><span class="comment"># src - 原图</span></span><br><span class="line"><span class="comment"># dst - 目标图像。当参数dsize不为0时，dst的大小为size；否则，它的大小需要根据src的大小，参数fx和fy决定。dst的类型（type）和src图像相同</span></span><br><span class="line"><span class="comment"># dsize - 目标图像大小。当dsize为0时，它可以通过以下公式计算得出：</span></span><br><span class="line"><span class="comment"># 所以，参数dsize和参数(fx, fy)不能够同时为0</span></span><br><span class="line"><span class="comment"># fx - 水平轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># fy - 垂直轴上的比例因子。当它为0时</span></span><br><span class="line"><span class="comment"># interpolation - 插值方法。共有5种：</span></span><br><span class="line"><span class="comment"># １）INTER_NEAREST - 最近邻插值法</span></span><br><span class="line"><span class="comment"># ２）INTER_LINEAR - 双线性插值法（默认）</span></span><br><span class="line"><span class="comment"># ３）INTER_AREA - 基于局部像素的重采样（resampling using pixel area relation）。对于图像抽取（image</span></span><br><span class="line"><span class="comment"># decimation）来说，这可能是一个更好的方法。但如果是放大图像时，它和最近邻法的效果类似。</span></span><br><span class="line"><span class="comment"># ４）INTER_CUBIC - 基于4x4像素邻域的3次插值法</span></span><br><span class="line"><span class="comment"># ５）INTER_LANCZOS4 - 基于8x8像素邻域的Lanczos插值</span></span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="图片画图"><a href="#图片画图" class="headerlink" title="图片画图"></a>图片画图</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line">import  numpy as np</span><br><span class="line"></span><br><span class="line">img=cv2.imread(<span class="string">"p3.jpg"</span>)</span><br><span class="line"></span><br><span class="line">cv2.rectangle(img,(750,300),(1100,680),violet,thickness=3)</span><br><span class="line">cv2.circle(img,(500,600),30,red,thickness=3)</span><br><span class="line">cv2.ellipse(img,(500,500),(100,150),90,0,360,yellow,thickness=3,lineType=-1)</span><br><span class="line">cv2.line(img,(50,50),(400,400),blue,thickness=3)</span><br><span class="line">points = np.array([[[140, 230], [380, 230], [320, 250], [250, 280],[550, 280]]], np.int32)</span><br><span class="line">cv2.polylines(img, [points], True, yellow, thickness=3)</span><br><span class="line">font = cv2.FONT_HERSHEY_COMPLEX</span><br><span class="line">cv2.putText(img, <span class="string">"lei chao "</span>, (20, 180), font, 4, black,thickness=4)</span><br><span class="line">cv2.imshow(<span class="string">"drawimg"</span>,img)</span><br><span class="line">key=cv2.waitKey(0)</span><br><span class="line"><span class="built_in">print</span>(key)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><iframe src="//player.bilibili.com/player.html?aid=56936295&cid=99446317&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<h5 id="《青春-问题集》"><a href="#《青春-问题集》" class="headerlink" title="《青春.问题集》"></a><center>《青春.问题集》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br></pre></td><td class="code"><pre><span class="line">开学初次见你</span><br><span class="line"></span><br><span class="line">你在等人</span><br><span class="line"></span><br><span class="line">你很精神的给我打了声招呼</span><br><span class="line"></span><br><span class="line">吓我一条</span><br><span class="line"></span><br><span class="line">是等你男朋友吧！</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">再次见你 </span><br><span class="line"></span><br><span class="line">我在操场跑步</span><br><span class="line"></span><br><span class="line">你和你男朋友在磨合感情</span><br><span class="line"></span><br><span class="line">过去打了声不该打的招呼</span><br><span class="line"></span><br><span class="line">你俩害羞的走了</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">走出即将关闭的图书馆</span><br><span class="line"></span><br><span class="line">沿着校园的路瞎逛</span><br><span class="line"></span><br><span class="line">前方熟悉的身影是你男朋友吧</span><br><span class="line"></span><br><span class="line">我却不认识旁边牵手的你 </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">下次见面 </span><br><span class="line"></span><br><span class="line">请给我初次相逢的招呼</span><br><span class="line"></span><br><span class="line">我会轻轻的告诉你</span><br><span class="line"></span><br><span class="line">你是个善良的姑娘</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;pre&gt;&lt;code&gt;主要学习内容：
-1.图片大小变换,认识resize()函数
-2.在图像上画图，长方形、圆形、椭圆、多边形......&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+      
+      
+        &lt;h5 id=&quot;《青春-问题集》&quot;&gt;&lt;a href=&quot;#《青春-问题集》&quot; class=&quot;headerlink&quot; title=&quot;《青春.问题集》&quot;&gt;&lt;/a&gt;&lt;center&gt;《青春.问题集》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;
+      
     
     </summary>
     
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+      <category term="恋爱集" scheme="https://yutianachao.com/tags/%E6%81%8B%E7%88%B1%E9%9B%86/"/>
     
   </entry>
   
   <entry>
-    <title>最近写论文感受</title>
-    <link href="https://yutianachao.com/2019/06/22/theroy/"/>
-    <id>https://yutianachao.com/2019/06/22/theroy/</id>
-    <published>2019-06-22T01:42:00.000Z</published>
-    <updated>2019-06-26T02:57:45.635Z</updated>
+    <title>《游光孝寺》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem8/"/>
+    <id>https://yutianachao.com/2020/01/17/poem8/</id>
+    <published>2020-01-17T14:27:10.000Z</published>
+    <updated>2020-01-17T14:47:06.356Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="最近写论文的感受（内在原因和外在原因）："><a href="#最近写论文的感受（内在原因和外在原因）：" class="headerlink" title="最近写论文的感受（内在原因和外在原因）："></a>最近写论文的感受（内在原因和外在原因）：</h4><ol><li>主要自己见识不够,看的论文比较少。</li><li>自己学习能力太差，做出来需要好长时间。</li><li>接触的资源不是一手的有的甚至是3、4手的。</li><li>网络屏蔽，书中推荐的学习网址访问不了，更多优秀的资源没法获取到。 </li><li>自己电脑硬件跟不上，硬件不匹配，更可怕的是你没有经济来源去改变这些情况。</li><li>生活压力大，学校的补助少，毕竟长大了，仅仅人情礼节的这一点都够头大了更别说其他了，没有经济来源，没法集中精力搞科研。</li></ol><h4 id="学校没给学生分配edu邮箱"><a href="#学校没给学生分配edu邮箱" class="headerlink" title="学校没给学生分配edu邮箱"></a>学校没给学生分配edu邮箱</h4><p>没有这邮箱，向国外申请实验数据集很难。只能自己想办法，目前已经用学历证明在GitHub申请自己的学生身份。<br><br>目前有GitHub的学生证明福利还是挺好的，好多软件为学生提供不要激活码的服务。</p><hr><a id="more"></a><h4 id="看的论文质量从好到坏可以分为这几类情况："><a href="#看的论文质量从好到坏可以分为这几类情况：" class="headerlink" title="看的论文质量从好到坏可以分为这几类情况："></a>看的论文质量从好到坏可以分为这几类情况：</h4><ol><li>有的人把实验做出来，并把别人的论文复现，通过比较说明自己的方法就是好。</li><li>有的人把实验做了，但由于数据过多并没有具体说明得出的结果是用那部分数据做出的，异常值是如何处理的,实验解决有待怀疑。</li><li>有的人没做实验，数据造假：直接套路模板先写别人用了啥方法，自己用了啥方法，随后在论文中把那些方法的基础理论介绍一遍，在实验对比部分把自己的结果写的比别人好一些。</li><li>有的人爬梯子过去，把国外的论文翻译后直接发了。</li><li>有的人直接引用甚至照抄以上论文（不包括1）烂上加烂。</li></ol><p>####：为什么会有造假现象发生（自己愚见）： </p><ol><li>社会风气：急功近利地教育：从小到大都接受着如何走捷径，如提分技巧，赚钱技巧，升职技巧……;教人要有耐性，君子务本做好自己的事太少太少。这种环境成长起来的我们怎能耐着性子做科研。</li><li>知识分子变节：教师失去社会责任感，他们的责任对国家尤为重要，现在的风气，教师的职责已经不是传道受业，有良心的是传技授业，还有一部分是混日子。（国家的原因，对老师的政策偏向太薄）。</li><li>教育制度：水课太多，浪费了学生的时间。毕业时间太短，延期只能2年或多一点（这个数字不定），时间过了没做出东西直接取消学位。真正的科研不是1,2年能解决问题的，应设置特例制度。</li><li>家庭教育很重要，家长的见识对孩子影响很大。</li><li>学识见识不够：我们了解的国家更多的是英美日韩，而且大多是通过电视剧和不得不考的英语了解的。这个世界很精彩，国家也很多，有条件的话多出去转转。我们自认为论文有个创新点，你能保证其他人或其他国家没做出来？</li></ol><h4 id="告诫自己"><a href="#告诫自己" class="headerlink" title="告诫自己"></a>告诫自己</h4><p>一定要在做出实验的基础上去写论文，否则不要动笔，哪怕延期都可以接受。千万不要造数据或抄袭，查出来取消学位断送自己的前程那是活该不多说，关键坏了导师的名声，这真的很丧天良。导师为我们提供很好的学习环境，不写出个好论文，真对不起导师，更对不起自己和家长，读研，要有意义，真的得静下心来，耐住性子去研究个东西。<br></p><p>我妈好几次打电话还不停告诫我：<br>电视上的xxx还是明星里或者xxxx还是教授里，名牌大学毕业的，都查出来了取消学位咧，丢人的很<br>你就不好好弄<br>你要好好学<br>不要造假<br>被查出来<br>书，就白念咧<br></p><p>写论文时，这几句话时不时会在耳旁想起......</p>]]></content>
+    <content type="html"><![CDATA[<h5 id="《游光孝寺》"><a href="#《游光孝寺》" class="headerlink" title="《游光孝寺》"></a><center>《游光孝寺》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">有人恰似无人在</span><br><span class="line">无人却似有人来</span><br><span class="line">准提音 佛子行</span><br><span class="line">北方燕 此时归</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;最近写论文的感受（内在原因和外在原因）：&quot;&gt;&lt;a href=&quot;#最近写论文的感受（内在原因和外在原因）：&quot; class=&quot;headerlink&quot; title=&quot;最近写论文的感受（内在原因和外在原因）：&quot;&gt;&lt;/a&gt;最近写论文的感受（内在原因和外在原因）：&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;主要自己见识不够,看的论文比较少。&lt;/li&gt;
-&lt;li&gt;自己学习能力太差，做出来需要好长时间。&lt;/li&gt;
-&lt;li&gt;接触的资源不是一手的有的甚至是3、4手的。&lt;/li&gt;
-&lt;li&gt;网络屏蔽，书中推荐的学习网址访问不了，更多优秀的资源没法获取到。 &lt;/li&gt;
-&lt;li&gt;自己电脑硬件跟不上，硬件不匹配，更可怕的是你没有经济来源去改变这些情况。&lt;/li&gt;
-&lt;li&gt;生活压力大，学校的补助少，毕竟长大了，仅仅人情礼节的这一点都够头大了更别说其他了，没有经济来源，没法集中精力搞科研。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;学校没给学生分配edu邮箱&quot;&gt;&lt;a href=&quot;#学校没给学生分配edu邮箱&quot; class=&quot;headerlink&quot; title=&quot;学校没给学生分配edu邮箱&quot;&gt;&lt;/a&gt;学校没给学生分配edu邮箱&lt;/h4&gt;&lt;p&gt;没有这邮箱，向国外申请实验数据集很难。只能自己想办法，目前已经用学历证明在GitHub申请自己的学生身份。&lt;br&gt;&lt;br&gt;目前有GitHub的学生证明福利还是挺好的，好多软件为学生提供不要激活码的服务。&lt;/p&gt;
-&lt;hr&gt;
+      
+      
+        &lt;h5 id=&quot;《游光孝寺》&quot;&gt;&lt;a href=&quot;#《游光孝寺》&quot; class=&quot;headerlink&quot; title=&quot;《游光孝寺》&quot;&gt;&lt;/a&gt;&lt;center&gt;《游光孝寺》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;t
+      
     
     </summary>
     
-      <category term="论文" scheme="https://yutianachao.com/categories/%E8%AE%BA%E6%96%87/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="随想" scheme="https://yutianachao.com/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="思乡" scheme="https://yutianachao.com/tags/%E6%80%9D%E4%B9%A1/"/>
     
   </entry>
   
   <entry>
-    <title>2.OpenCV+Python 读取视频并处理</title>
-    <link href="https://yutianachao.com/2019/06/20/Opencv-p2/"/>
-    <id>https://yutianachao.com/2019/06/20/Opencv-p2/</id>
-    <published>2019-06-20T14:08:21.000Z</published>
-    <updated>2019-06-23T00:03:31.144Z</updated>
+    <title>《望月》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem7/"/>
+    <id>https://yutianachao.com/2020/01/17/poem7/</id>
+    <published>2020-01-17T14:27:03.000Z</published>
+    <updated>2020-01-17T14:47:21.247Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>主要学习内容：1.读取视频2.把视频转换为灰度视频</code></pre><a id="more"></a><h4 id="读取视频"><a href="#读取视频" class="headerlink" title="读取视频"></a>读取视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示彩色视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BRG_FREAM"</span>,frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="把视频转换为灰度视频"><a href="#把视频转换为灰度视频" class="headerlink" title="把视频转换为灰度视频"></a>把视频转换为灰度视频</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line"><span class="comment">#  0:默认摄像头 ,1：其他摄像头 ;</span></span><br><span class="line"><span class="comment">#  随后做：网络摄像头，人脸识别实验</span></span><br><span class="line"><span class="built_in">cap</span>=cv2.VideoCapture(0)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    <span class="comment"># 显示视频</span></span><br><span class="line">    ret,frame = cap.read()</span><br><span class="line">    cv2.imshow(<span class="string">"BGR_FREAM"</span>,frame)</span><br><span class="line">    <span class="comment"># 把视频转化为灰度视频</span></span><br><span class="line">    gray_frame=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)</span><br><span class="line">    cv2.imshow(<span class="string">"GRAY_FREAM"</span>, gray_frame)</span><br><span class="line"></span><br><span class="line">    key = cv2.waitKey(25)</span><br><span class="line">    <span class="built_in">print</span>(key)</span><br><span class="line">    <span class="keyword">if</span> key == 27:</span><br><span class="line">        <span class="built_in">break</span></span><br><span class="line"></span><br><span class="line">cap.release()</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h4><pre><code>最近学习视频剪辑，好多地方还是不够熟练，厚着脸皮在中途强行加了段戏ing</code></pre><iframe src="//player.bilibili.com/player.html?aid=56247053&cid=98306883&page=1" height="400" width="600" scrolling="true" border="0" frameborder="1" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<h5 id="《望月》"><a href="#《望月》" class="headerlink" title="《望月》"></a><center>《望月》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">他年望月异乡客</span><br><span class="line">今朝已是故乡人</span><br><span class="line">真自在 梦云端</span><br><span class="line">爷娘唤我乳儿名</span><br><span class="line">吃我儿时家常饭</span><br><span class="line">云端虽压月梢头</span><br><span class="line">十六夜定月满圆</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;pre&gt;&lt;code&gt;主要学习内容：
-1.读取视频
-2.把视频转换为灰度视频&lt;/code&gt;&lt;/pre&gt;
+      
+      
+        &lt;h5 id=&quot;《望月》&quot;&gt;&lt;a href=&quot;#《望月》&quot; class=&quot;headerlink&quot; title=&quot;《望月》&quot;&gt;&lt;/a&gt;&lt;center&gt;《望月》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cl
+      
     
     </summary>
     
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
-    
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+      <category term="思乡" scheme="https://yutianachao.com/tags/%E6%80%9D%E4%B9%A1/"/>
     
   </entry>
   
   <entry>
-    <title>Git</title>
-    <link href="https://yutianachao.com/2019/06/20/Git/"/>
-    <id>https://yutianachao.com/2019/06/20/Git/</id>
-    <published>2019-06-20T09:50:36.000Z</published>
-    <updated>2019-11-20T11:44:46.182Z</updated>
+    <title>《祝考试顺利》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem6/"/>
+    <id>https://yutianachao.com/2020/01/17/poem6/</id>
+    <published>2020-01-17T14:26:57.000Z</published>
+    <updated>2020-01-17T14:47:04.950Z</updated>
     
-    <content type="html"><![CDATA[<p>因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。<br>编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。<br>就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……</p><h3 id="Git是什么鬼？"><a href="#Git是什么鬼？" class="headerlink" title="Git是什么鬼？"></a>Git是什么鬼？</h3><p> 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的同行，搞基用的是什么工具？<br> 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了…<br> <a id="more"></a><br> Git是目前用的最多的分布式版本管理工具。 </p><ol><li>Git是怎样诞生的诞生的?<br>CVS(集中式)–&gt;SVN(集中式)–&gt;(geek收费 分布式)—&gt;git 免费（分布式）—&gt;github(托管网站)</li><li>什么是分布式？    </li><li>什么又是版本管理工具<br>备份数据，历史记录，回到过去，团队合作，减少冲突，；<br> Git就像是《大话西游》中的月光宝盒，像个穿梭机，在不同时间点穿梭着尝试去改正自己曾经犯下的”错”,从而达到这样的目的：减少人生遗憾、成为最好的自己。</li></ol><h3 id="Git的使用"><a href="#Git的使用" class="headerlink" title="Git的使用"></a>Git的使用</h3><pre><code>linux: 1. yum install git 2. git  clone  .... 3. git add  file  4. git commit -m &quot; descrtion&quot;5. git push 6.若有冲突：git pull</code></pre><p>####Git冲突是如何产生的<br>    若两个人在更新下来的工程文件中，建立各自的文件并且各自干各自的事情，则一定没冲突。<br>    若两人在更新下来的文件里,在同一文件的不同地方各自个各自的事情也没有冲突。<br>    若两人在更新下来的文件里,在同一文件的相同地方修改则发生冲突。<br>    先提交的那个人没事，后面提交的那个会报错，提示一个版本已经提交了相同的引用。<br>    git pull 后两人的代码合并，两人沟通，看留谁的代码，手动删除不用。</p><p>####Git回到过去回到未来<br>    过去：1. git  log     2. git reset –hard  40位数字<br>    未来：1. git  reflog  2. git reset –hard  仅仅几位数</p><p>####建立里程碑<br>    github:release</p><p>####建立分支<br>    新的功能已经开始开发，但是以前的出现了bug ,为了不影响新的功能的开发则在之前的里程碑开一个分支。<br>    创建分支：git branch bug # bug 为分支的名字<br>    查看分支：git branch<br>    切换分支：git checkout bug<br>    合并：软件合并；github网站合并；多用软件少用命令行，效率源于工具的使用。<br>    删除分支：git branch -d bug</p>]]></content>
+    <content type="html"><![CDATA[<h5 id="《祝考试顺利》"><a href="#《祝考试顺利》" class="headerlink" title="《祝考试顺利》"></a><center>《祝考试顺利》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">旗开得胜日</span><br><span class="line">犒赏三军时</span><br><span class="line">我已为君倾满杯</span><br><span class="line">心切盼君归</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;因为在分享Opencv学习笔记时要把代码分享到GitHub上，一些Git指令还不那么熟悉，顺带着把Git系统的学一遍，和大家分享哈。&lt;br&gt;编程这事是实践性很强的技能，得多练，才能假装给人牛逼得感觉。做好多事前我们多少带着功利心，心里会偷偷地问自己：学这有什么用。答案是：学了你就知道。&lt;br&gt;就像你问上大学、读研、出国有什么用一样？同样的答案不多说：上了你就知道……&lt;/p&gt;
-&lt;h3 id=&quot;Git是什么鬼？&quot;&gt;&lt;a href=&quot;#Git是什么鬼？&quot; class=&quot;headerlink&quot; title=&quot;Git是什么鬼？&quot;&gt;&lt;/a&gt;Git是什么鬼？&lt;/h3&gt;&lt;p&gt; 编程的小伙伴们都知道GitHub是目前世界上最大的同性交友网站。带着青春悸动的羞涩和向往，醋意顿生的你可能会忿忿不平的质问：这群白天不修边幅晚上更是放浪形骸(不受礼节的约束)的同行，搞基用的是什么工具？&lt;br&gt; 此时天空划过一道闪光，照的让人睁不开眼，手机铃声为《上海滩》的背景音乐响起：用的是我,Git！！！ 带有神秘光环的男一号出场了…&lt;br&gt;&lt;/p&gt;
+      
+      
+        &lt;h5 id=&quot;《祝考试顺利》&quot;&gt;&lt;a href=&quot;#《祝考试顺利》&quot; class=&quot;headerlink&quot; title=&quot;《祝考试顺利》&quot;&gt;&lt;/a&gt;&lt;center&gt;《祝考试顺利》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;tabl
+      
     
     </summary>
     
-      <category term="Git" scheme="https://yutianachao.com/categories/Git/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="版本控制系统(VCS)" scheme="https://yutianachao.com/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-VCS/"/>
-    
-      <category term="Github" scheme="https://yutianachao.com/tags/Github/"/>
+      <category term="祝福" scheme="https://yutianachao.com/tags/%E7%A5%9D%E7%A6%8F/"/>
     
   </entry>
   
   <entry>
-    <title>1.OpenCV+Python 读取图片并处理</title>
-    <link href="https://yutianachao.com/2019/06/19/OpenCV-p1/"/>
-    <id>https://yutianachao.com/2019/06/19/OpenCV-p1/</id>
-    <published>2019-06-18T22:28:12.000Z</published>
-    <updated>2019-06-23T00:03:01.832Z</updated>
+    <title>《匆匆时光已而立》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem5/"/>
+    <id>https://yutianachao.com/2020/01/17/poem5/</id>
+    <published>2020-01-17T14:22:31.000Z</published>
+    <updated>2020-01-17T14:47:03.356Z</updated>
     
-    <content type="html"><![CDATA[<p>学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。<br>    主要学习内容：<br>    1.显示一张彩色图片<br>    2.把彩色图片转化为灰度图片<br>    3.保存图片</p><a id="more"></a><h4 id="显示一张彩色图片"><a href="#显示一张彩色图片" class="headerlink" title="显示一张彩色图片"></a>显示一张彩色图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">cv2.imshow(<span class="string">"imge"</span>,image)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/p1_health.jpg" alt="显示彩色图片"></p><h4 id="把彩色图片转化为灰度图片"><a href="#把彩色图片转化为灰度图片" class="headerlink" title="把彩色图片转化为灰度图片"></a>把彩色图片转化为灰度图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)  </span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imshow(<span class="string">"gray_image"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><p><img src="/2019/06/19/OpenCV-p1/gray_p1_health.jpg" alt="把彩色图片转化为灰度图片"></p><h4 id="保存图片"><a href="#保存图片" class="headerlink" title="保存图片"></a>保存图片</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">import cv2</span><br><span class="line"></span><br><span class="line">image=cv2.imread(<span class="string">"p1_health.jpg"</span>)</span><br><span class="line">gray_imge=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)</span><br><span class="line">cv2.imwrite(<span class="string">"gray_p1_health.jpg"</span>,gray_imge)</span><br><span class="line"></span><br><span class="line">cv2.waitKey(0)</span><br><span class="line">cv2.destroyAllWindows()</span><br></pre></td></tr></table></figure><h4 id="代码解释"><a href="#代码解释" class="headerlink" title="代码解释"></a>代码解释</h4><iframe src="//player.bilibili.com/player.html?aid=56114899&cid=98085178&page=1" height="400" width="600" scrolling="true" border="1" frameborder="true" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    <content type="html"><![CDATA[<h5 id="《匆匆时光已而立》"><a href="#《匆匆时光已而立》" class="headerlink" title="《匆匆时光已而立》"></a><center>《匆匆时光已而立》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">芳华不在</span><br><span class="line">任时光偷笑</span><br><span class="line">最无奈</span><br><span class="line">望天外 意踌躇</span><br><span class="line">晚霞漫天秋意浓</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;学习建议：用最笨方法学习，像老牛耕地一样，一步一个脚印。&lt;br&gt;    主要学习内容：&lt;br&gt;    1.显示一张彩色图片&lt;br&gt;    2.把彩色图片转化为灰度图片&lt;br&gt;    3.保存图片&lt;/p&gt;
+      
+      
+        &lt;h5 id=&quot;《匆匆时光已而立》&quot;&gt;&lt;a href=&quot;#《匆匆时光已而立》&quot; class=&quot;headerlink&quot; title=&quot;《匆匆时光已而立》&quot;&gt;&lt;/a&gt;&lt;center&gt;《匆匆时光已而立》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bas
+      
     
     </summary>
     
-      <category term="Opencv" scheme="https://yutianachao.com/categories/Opencv/"/>
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
     
     
-      <category term="python" scheme="https://yutianachao.com/tags/python/"/>
+      <category term="惜时" scheme="https://yutianachao.com/tags/%E6%83%9C%E6%97%B6/"/>
     
-      <category term="数字图像处理" scheme="https://yutianachao.com/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+  </entry>
+  
+  <entry>
+    <title>《叹项羽》</title>
+    <link href="https://yutianachao.com/2020/01/17/poem4/"/>
+    <id>https://yutianachao.com/2020/01/17/poem4/</id>
+    <published>2020-01-17T14:22:25.000Z</published>
+    <updated>2020-01-17T14:47:00.419Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="《叹项羽》"><a href="#《叹项羽》" class="headerlink" title="《叹项羽》"></a><center>《叹项羽》</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">权御天下 垓下之围</span><br><span class="line">霸王卸甲 虞姬之泪</span><br><span class="line">步步惊心 刀光暴戾</span><br><span class="line">往事越千年</span><br><span class="line">秦川山河依旧</span><br><span class="line">莫话将相曾叱咤</span><br><span class="line">旭日东升</span><br><span class="line">且看今朝弄潮儿！</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;《叹项羽》&quot;&gt;&lt;a href=&quot;#《叹项羽》&quot; class=&quot;headerlink&quot; title=&quot;《叹项羽》&quot;&gt;&lt;/a&gt;&lt;center&gt;《叹项羽》&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
+      
+    
+    </summary>
+    
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
+    
+    
+      <category term="励志" scheme="https://yutianachao.com/tags/%E5%8A%B1%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>忏悔</title>
+    <link href="https://yutianachao.com/2020/01/17/poem3/"/>
+    <id>https://yutianachao.com/2020/01/17/poem3/</id>
+    <published>2020-01-17T14:22:19.000Z</published>
+    <updated>2020-01-17T14:46:57.357Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="忏悔"><a href="#忏悔" class="headerlink" title="忏悔"></a><center>忏悔</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">苦难挫折的到来</span><br><span class="line">比起沮丧</span><br><span class="line">带来的更多是心静</span><br><span class="line"></span><br><span class="line">自己曾经犯下的错</span><br><span class="line">一幕幕的闪过</span><br><span class="line">留下的更多是</span><br><span class="line">忏悔和沉默</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;忏悔&quot;&gt;&lt;a href=&quot;#忏悔&quot; class=&quot;headerlink&quot; title=&quot;忏悔&quot;&gt;&lt;/a&gt;&lt;center&gt;忏悔&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gut
+      
+    
+    </summary>
+    
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
+    
+    
+      <category term="忏悔" scheme="https://yutianachao.com/tags/%E5%BF%8F%E6%82%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相逢恰似陌路人</title>
+    <link href="https://yutianachao.com/2020/01/17/poem2/"/>
+    <id>https://yutianachao.com/2020/01/17/poem2/</id>
+    <published>2020-01-17T14:19:32.000Z</published>
+    <updated>2020-01-17T14:46:55.841Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="相逢恰似陌路人"><a href="#相逢恰似陌路人" class="headerlink" title="相逢恰似陌路人"></a><center>相逢恰似陌路人</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">渐渐的你变成了我不认识的样子</span><br><span class="line">恰如我变成你不喜欢的样子</span><br><span class="line">生命在不知不觉中</span><br><span class="line">模糊了彼此的模样</span><br><span class="line">随后的日子</span><br><span class="line">相逢的你我</span><br><span class="line">仿似熟悉</span><br><span class="line">但，更多是陌生</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;相逢恰似陌路人&quot;&gt;&lt;a href=&quot;#相逢恰似陌路人&quot; class=&quot;headerlink&quot; title=&quot;相逢恰似陌路人&quot;&gt;&lt;/a&gt;&lt;center&gt;相逢恰似陌路人&lt;/center&gt;&lt;/h5&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;tabl
+      
+    
+    </summary>
+    
+      <category term="雨田阿超诗集" scheme="https://yutianachao.com/categories/%E9%9B%A8%E7%94%B0%E9%98%BF%E8%B6%85%E8%AF%97%E9%9B%86/"/>
+    
+    
+      <category term="失恋" scheme="https://yutianachao.com/tags/%E5%A4%B1%E6%81%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老雷的书房菜</title>
+    <link href="https://yutianachao.com/2019/06/18/hello-world/"/>
+    <id>https://yutianachao.com/2019/06/18/hello-world/</id>
+    <published>2019-06-18T08:18:52.000Z</published>
+    <updated>2019-06-18T23:41:44.808Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>大家好，我叫雷超，很高兴小伙伴们访问我的博客。</li><li>折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。<a id="more"></a></li></ul><h5 id="命的别名"><a href="#命的别名" class="headerlink" title="命的别名"></a><center>命的别名</center></h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">命的别名就是心:</span><br><span class="line"></span><br><span class="line">请君放慢前方远行的步伐</span><br><span class="line">最珍贵的和最值得珍惜的就在身边</span><br><span class="line">那是千千万万人中最平凡的你</span><br><span class="line">也是千千万万人中最平凡的我</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;大家好，我叫雷超，很高兴小伙伴们访问我的博客。&lt;/li&gt;
+&lt;li&gt;折腾了多半天，终于搭起了这个博客，心里非常高兴，带着神圣而又不靠谱的仪式感，我把她起名为雨田阿超，想着这个小生命以后的成长经历由我来谱写，心里顿时诚惶诚恐。希望在随后的日子里给她留下特别的经历和回忆。&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
     
   </entry>
   
